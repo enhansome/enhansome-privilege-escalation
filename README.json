@@ -14,7 +14,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 79993
+            "stars": 79997
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-11T23:41:22Z",
             "owner": "peass-ng",
             "repo": "PEASS-ng",
-            "stars": 20312
+            "stars": 20313
           }
         },
         {
@@ -466,7 +466,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 79993
+            "stars": 79997
           }
         },
         {
@@ -556,7 +556,7 @@
             "last_commit": "2026-08-11T23:41:22Z",
             "owner": "peass-ng",
             "repo": "PEASS-ng",
-            "stars": 20312
+            "stars": 20313
           }
         },
         {
@@ -1001,7 +1001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:50.822Z",
+    "last_updated": "2026-08-13T06:55:03.537Z",
     "original_repository": "m0nad/awesome-privilege-escalation",
     "original_repository_sha": "26c2658bfde971bc7c24f4a100a41faa19189d85",
     "enhanced_repository": "enhansome/enhansome-privilege-escalation",
