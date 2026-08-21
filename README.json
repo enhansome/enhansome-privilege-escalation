@@ -15,7 +15,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80189
+            "stars": 80218
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-12-17T09:36:12Z",
             "owner": "RackunSec",
             "repo": "Penetration-Testing-Grimoire",
-            "stars": 283
+            "stars": 281
           }
         },
         {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-17T05:40:59Z",
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20344
+                "stars": 20346
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2023-09-06T18:02:29Z",
                 "owner": "rebootuser",
                 "repo": "LinEnum",
-                "stars": 8006
+                "stars": 8008
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2024-03-12T21:01:14Z",
                 "owner": "liamg",
                 "repo": "traitor",
-                "stars": 7165
+                "stars": 7164
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-03-20T13:15:21Z",
                 "owner": "The-Z-Labs",
                 "repo": "linux-exploit-suggester",
-                "stars": 6591
+                "stars": 6593
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-03-01T09:06:16Z",
                 "owner": "DominicBreuker",
                 "repo": "pspy",
-                "stars": 6151
+                "stars": 6152
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2020-07-13T05:02:00Z",
                 "owner": "SecWiki",
                 "repo": "linux-kernel-exploits",
-                "stars": 5647
+                "stars": 5650
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-05-03T19:54:09Z",
                 "owner": "diego-treitos",
                 "repo": "linux-smart-enumeration",
-                "stars": 3962
+                "stars": 3961
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2023-01-28T05:01:23Z",
                 "owner": "jondonas",
                 "repo": "linux-exploit-suggester-2",
-                "stars": 1976
+                "stars": 1975
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2022-01-31T10:32:08Z",
                 "owner": "sleventyeleven",
                 "repo": "linuxprivchecker",
-                "stars": 1827
+                "stars": 1828
               }
             },
             {
@@ -287,7 +287,7 @@
                 "last_commit": "2017-12-13T20:09:28Z",
                 "owner": "1N3",
                 "repo": "PrivEsc",
-                "stars": 995
+                "stars": 993
               }
             },
             {
@@ -344,7 +344,7 @@
                 "archived": false,
                 "id": 330788903,
                 "language": "Python",
-                "last_commit": "2026-08-14T02:39:09Z",
+                "last_commit": "2026-08-21T01:53:14Z",
                 "owner": "Frissi0n",
                 "repo": "GTFONow",
                 "stars": 638
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80189
+            "stars": 80218
           }
         },
         {
@@ -592,7 +592,7 @@
                 "last_commit": "2026-08-17T05:40:59Z",
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20344
+                "stars": 20346
               }
             },
             {
@@ -622,7 +622,7 @@
                 "last_commit": "2026-08-14T18:25:09Z",
                 "owner": "bitsadmin",
                 "repo": "wesng",
-                "stars": 4921
+                "stars": 4922
               }
             },
             {
@@ -637,7 +637,7 @@
                 "last_commit": "2025-01-10T20:12:49Z",
                 "owner": "GhostPack",
                 "repo": "Seatbelt",
-                "stars": 4678
+                "stars": 4679
               }
             },
             {
@@ -667,7 +667,7 @@
                 "last_commit": "2026-08-19T13:07:45Z",
                 "owner": "itm4n",
                 "repo": "PrivescCheck",
-                "stars": 3915
+                "stars": 3918
               }
             },
             {
@@ -682,7 +682,7 @@
                 "last_commit": "2021-12-18T16:00:18Z",
                 "owner": "ohpe",
                 "repo": "juicy-potato",
-                "stars": 2813
+                "stars": 2814
               }
             },
             {
@@ -742,7 +742,7 @@
                 "last_commit": "2021-04-19T14:53:29Z",
                 "owner": "411Hall",
                 "repo": "JAWS",
-                "stars": 1985
+                "stars": 1987
               }
             },
             {
@@ -978,7 +978,7 @@
             "last_commit": "2022-10-09T04:34:28Z",
             "owner": "sagishahar",
             "repo": "lpeworkshop",
-            "stars": 2124
+            "stars": 2125
           }
         }
       ],
@@ -1001,7 +1001,7 @@
                 "last_commit": "2026-05-01T08:14:30Z",
                 "owner": "cdk-team",
                 "repo": "CDK",
-                "stars": 4734
+                "stars": 4736
               }
             },
             {
@@ -1074,7 +1074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:55:25.659Z",
+    "last_updated": "2026-08-21T05:57:22.900Z",
     "original_repository": "m0nad/awesome-privilege-escalation",
     "original_repository_id": 225346478,
     "original_repository_sha": "26c2658bfde971bc7c24f4a100a41faa19189d85",

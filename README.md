@@ -31,10 +31,10 @@ A curated list of awesome privilege escalation
 
 ## Linux
 
-* [Linux - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md) ⭐ 80,189 | 🐛 34 | 🌐 Python | 📅 2026-08-09: Methodology from PayloadsAllTheThings
+* [Linux - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md) ⭐ 80,218 | 🐛 34 | 🌐 Python | 📅 2026-08-09: Methodology from PayloadsAllTheThings
 * [Privilege Escalation & Post-Exploitation](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/PrivescPostEx.md) ⭐ 5,986 | 🐛 4 | 🌐 CSS | 📅 2025-10-20
 * [Privilege Escalation Cheatsheet (Vulnhub)](https://github.com/Ignitetechnologies/Privilege-Escalation) ⭐ 3,630 | 🐛 2 | 📅 2026-03-14: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
-* [Penetration-Testing-Grimoire/Privilege Escalation/linux.md](https://github.com/weaknetlabs/Penetration-Testing-Grimoire/blob/master/Privilege%20Escalation/linux.md) ⭐ 283 | 🐛 1 | 🌐 Shell | 📅 2023-12-17
+* [Penetration-Testing-Grimoire/Privilege Escalation/linux.md](https://github.com/weaknetlabs/Penetration-Testing-Grimoire/blob/master/Privilege%20Escalation/linux.md) ⭐ 281 | 🐛 1 | 🌐 Shell | 📅 2023-12-17
 * [Linux Privilege Escalation](https://github.com/lamontns/pentest/blob/master/privilege-escalation/linux-privilege-escalation.md) ⭐ 58 | 🐛 0 | 🌐 PHP | 📅 2018-09-02: Linux Privilege Escalation by lamontns.
 * [A guide to Linux Privilege Escalation](https://payatu.com/guide-linux-privilege-escalation/): by Rashid-Feroze
 * [Attack and Defend: LinuxPrivilege Escalation Techniques of 2016](https://www.sans.org/reading-room/whitepapers/linux/attack-defend-linux-privilege-escalation-techniques-2016-37562): This paper will examine Linux privilege escalation techniques used throughout 2016 in detail, highlighting how these techniques work and how adversaries are using them.
@@ -95,25 +95,25 @@ A curated list of awesome privilege escalation
 
 ### Tools
 
-* [LinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS) ⭐ 20,344 | 🐛 2 | 🌐 C# | 📅 2026-08-17: Linux Privilege Escalation Awesome Script
-* [LinEnum](https://github.com/rebootuser/LinEnum) ⭐ 8,006 | 🐛 25 | 🌐 Shell | 📅 2023-09-06: Scripted local Linux enumeration & privilege escalation checks
-* [traitor](https://github.com/liamg/traitor) ⭐ 7,165 | 🐛 22 | 🌐 Go | 📅 2024-03-12: Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
-* [LES](https://github.com/mzet-/linux-exploit-suggester) ⭐ 6,591 | 🐛 24 | 🌐 Shell | 📅 2026-03-20: LES: Linux privilege escalation auditing tool
-* [pspy](https://github.com/DominicBreuker/pspy) ⭐ 6,151 | 🐛 3 | 🌐 Go | 📅 2026-03-01: unprivileged Linux process snooping
-* [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) ⭐ 5,647 | 🐛 4 | 🌐 C | 📅 2020-07-13
-* [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) ⭐ 3,962 | 🐛 3 | 🌐 Shell | 📅 2026-05-03: Linux enumeration tools for pentesting and CTFs
+* [LinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS) ⭐ 20,346 | 🐛 2 | 🌐 C# | 📅 2026-08-17: Linux Privilege Escalation Awesome Script
+* [LinEnum](https://github.com/rebootuser/LinEnum) ⭐ 8,008 | 🐛 25 | 🌐 Shell | 📅 2023-09-06: Scripted local Linux enumeration & privilege escalation checks
+* [traitor](https://github.com/liamg/traitor) ⭐ 7,164 | 🐛 22 | 🌐 Go | 📅 2024-03-12: Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
+* [LES](https://github.com/mzet-/linux-exploit-suggester) ⭐ 6,593 | 🐛 24 | 🌐 Shell | 📅 2026-03-20: LES: Linux privilege escalation auditing tool
+* [pspy](https://github.com/DominicBreuker/pspy) ⭐ 6,152 | 🐛 3 | 🌐 Go | 📅 2026-03-01: unprivileged Linux process snooping
+* [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) ⭐ 5,650 | 🐛 4 | 🌐 C | 📅 2020-07-13
+* [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) ⭐ 3,961 | 🐛 3 | 🌐 Shell | 📅 2026-05-03: Linux enumeration tools for pentesting and CTFs
 * [BeRoot](https://github.com/AlessandroZ/BeRoot) ⭐ 2,619 | 🐛 6 | 🌐 Python | 📅 2024-10-04: BeRoot Project is a post exploitation tool to check common misconfigurations to find a way to escalate our privilege.
   exploits.
 * [SUDO\_KILLER ](https://github.com/TH3xACE/SUDO_KILLER) ⭐ 2,482 | 🐛 1 | 🌐 Shell | 📅 2026-03-11: A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems.
-* [Linux Exploit Suggester 2](https://github.com/jondonas/linux-exploit-suggester-2) ⭐ 1,976 | 🐛 0 | 🌐 Perl | 📅 2023-01-28: Next-generation exploit suggester based on Linux\_Exploit\_Suggester
-* [Linuxprivchecker.py](https://github.com/sleventyeleven/linuxprivchecker) ⭐ 1,827 | 🐛 1 | 🌐 Python | 📅 2022-01-31: This script is intended to be executed locally on a Linux box to enumerate basic system info and search for common privilege escalation vectors such as world writable files, misconfigurations, clear-text passwords and applicable exploits.
+* [Linux Exploit Suggester 2](https://github.com/jondonas/linux-exploit-suggester-2) ⭐ 1,975 | 🐛 0 | 🌐 Perl | 📅 2023-01-28: Next-generation exploit suggester based on Linux\_Exploit\_Suggester
+* [Linuxprivchecker.py](https://github.com/sleventyeleven/linuxprivchecker) ⭐ 1,828 | 🐛 1 | 🌐 Python | 📅 2022-01-31: This script is intended to be executed locally on a Linux box to enumerate basic system info and search for common privilege escalation vectors such as world writable files, misconfigurations, clear-text passwords and applicable exploits.
 * [Linux\_Exploit\_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) ⭐ 1,813 | 🐛 4 | 🌐 Perl | 📅 2014-05-19: Linux Exploit Suggester; based on operating system release number.
 * [unix-privesc-check](https://github.com/pentestmonkey/unix-privesc-check) ⭐ 1,081 | 🐛 27 | 🌐 Shell | 📅 2021-02-07: Shell script to check for simple privilege escalation vectors on Unix systems
-* [PrivEsc](https://github.com/1N3/PrivEsc) ⭐ 995 | 🐛 1 | 🌐 C | 📅 2017-12-13: A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
+* [PrivEsc](https://github.com/1N3/PrivEsc) ⭐ 993 | 🐛 1 | 🌐 C | 📅 2017-12-13: A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 * [Unix-Privilege-Escalation-Exploits-Pack](https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack) ⭐ 822 | 🐛 2 | 🌐 C | 📅 2023-04-11: Exploits for getting local root on Linux, BSD, AIX, HP-UX, Solaris, RHEL, SUSE etc.
 * [kernelpop](https://github.com/spencerdodd/kernelpop) ⭐ 702 | 🐛 8 | 🌐 Python | 📅 2018-08-02: kernelpop is a framework for performing automated kernel vulnerability enumeration and exploitation.
 * [Linux Privilege Escalation Check Script](https://github.com/linted/linuxprivchecker) ⭐ 665 | 🐛 0 | 🌐 Python | 📅 2021-11-06: Originally forked from the linuxprivchecker.py (Mike Czumak), this script is intended to be executed locally on a Linux box to enumerate basic system info and search for common privilege escalation vectors such as word writable files, misconfigurations, clear-text password and applicable exploits.
-* [GTFONow](https://github.com/Frissi0n/GTFONow) ⭐ 638 | 🐛 51 | 🌐 Python | 📅 2026-08-14: Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
+* [GTFONow](https://github.com/Frissi0n/GTFONow) ⭐ 638 | 🐛 52 | 🌐 Python | 📅 2026-08-21: Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 * [AutoLocalPrivilegeEscalation](https://github.com/ngalongc/AutoLocalPrivilegeEscalation) ⭐ 496 | 🐛 3 | 🌐 Python | 📅 2021-09-21: An automated script that download potential exploit for linux kernel from exploitdb, and compile them automatically.
 * [uptux](https://github.com/initstring/uptux) ⭐ 301 | 🐛 1 | 🌐 Python | 📅 2019-10-02: Specialized privilege escalation checks for Linux systems.
 * [linux-soft-exploit-suggester](https://github.com/belane/linux-soft-exploit-suggester) ⭐ 236 | 🐛 0 | 🌐 Python | 📅 2023-04-14: linux-soft-exploit-suggester finds exploits for all vulnerable software in a system helping with the privilege escalation.
@@ -143,7 +143,7 @@ A curated list of awesome privilege escalation
 
 ## Windows
 
-* [Windows - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md) ⭐ 80,189 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [Windows - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md) ⭐ 80,218 | 🐛 34 | 🌐 Python | 📅 2026-08-09
 * [Windows Local Privilege Escalation Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook) ⭐ 1,367 | 🐛 3 | 🌐 PowerShell | 📅 2026-02-05: Windows Local Privilege Escalation Cookbook by nickvourd.
 * [Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation) ⭐ 993 | 🐛 3 | 🌐 Batchfile | 📅 2020-03-25: Step-by-step windows privlege escalation methodology.
 * [Windows-Privilege-Escalation-Resources](https://github.com/Gr1mmie/Windows-Privilege-Escalation-Resources) ⭐ 813 | 🐛 1 | 📅 2020-10-23: Compilation of Resources from TCM's Windows Priv Esc Udemy Course. By Gr1mmie
@@ -174,7 +174,7 @@ A curated list of awesome privilege escalation
 ### Potato
 
 * [CertPotato](https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/): Using ADCS to privesc from virtual and network service accounts to local system.
-* [Coerced potato](https://github.com/Prepouce/CoercedPotato) ⭐ 398 | 🐛 1 | 🌐 C | 📅 2026-07-30: From Patate (LOCAL/NETWORK SERVICE) to SYSTEM by abusing SeImpersonatePrivilege on Windows 10, Windows 11 and Server 2022.
+* [Coerced potato](https://github.com/Prepouce/CoercedPotato) ⭐ 398 | 🐛 1 | 🌐 C | 📅 2026-08-20: From Patate (LOCAL/NETWORK SERVICE) to SYSTEM by abusing SeImpersonatePrivilege on Windows 10, Windows 11 and Server 2022.
 * [Hot Potato](https://pentestlab.blog/2017/04/13/hot-potato/): Hot potato is the code name of a Windows privilege escalation technique that was discovered by Stephen Breen. This technique is actually a combination of two known windows issues  like NBNS spoofing and NTLM relay with the implementation of a fake WPAD proxy server which is running locally on the target host.
 * [Hot Potato](https://securityonline.info/hot-potato-windows-privilege-escalation-metasploit-powershellhot-potato-windows-privilege-escalation/): Windows 7, 8, 10, Server 2008, Server 2012 Privilege Escalation in Metasploit & PowerShell.
 * [Hot Potato – Windows Privilege Escalation](https://foxglovesecurity.com/2016/01/16/hot-potato/): Privilege Escalation on Windows 7, 8, 10, Server 2008, Server 2012 … and a new network attack.
@@ -208,17 +208,17 @@ A curated list of awesome privilege escalation
 
 ### Tools
 
-* [winPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS) ⭐ 20,344 | 🐛 2 | 🌐 C# | 📅 2026-08-17: Windows Privilege Escalation Awesome Scripts
+* [winPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS) ⭐ 20,346 | 🐛 2 | 🌐 C# | 📅 2026-08-17: Windows Privilege Escalation Awesome Scripts
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ⚠️ Archived: PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
-* [Windows Exploit Suggester - Next Generation (WES-NG)](https://github.com/bitsadmin/wesng) ⭐ 4,921 | 🐛 10 | 🌐 Python | 📅 2026-08-14: WES-NG is a tool based on the output of Windows' systeminfo utility which provides the list of vulnerabilities the OS is vulnerable to, including any exploits for these vulnerabilities. Every Windows OS between Windows XP and Windows 10, including their Windows Server counterparts, is supported. By bitsadmin
-* [Seatbelt](https://github.com/GhostPack/Seatbelt) ⭐ 4,678 | 🐛 11 | 🌐 C# | 📅 2025-01-10: Project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
+* [Windows Exploit Suggester - Next Generation (WES-NG)](https://github.com/bitsadmin/wesng) ⭐ 4,922 | 🐛 10 | 🌐 Python | 📅 2026-08-14: WES-NG is a tool based on the output of Windows' systeminfo utility which provides the list of vulnerabilities the OS is vulnerable to, including any exploits for these vulnerabilities. Every Windows OS between Windows XP and Windows 10, including their Windows Server counterparts, is supported. By bitsadmin
+* [Seatbelt](https://github.com/GhostPack/Seatbelt) ⭐ 4,679 | 🐛 11 | 🌐 C# | 📅 2025-01-10: Project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
 * [Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) ⚠️ Archived: This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. By AonCyberLabs
-* [PrivescCheck](https://github.com/itm4n/PrivescCheck) ⭐ 3,915 | 🐛 2 | 🌐 PowerShell | 📅 2026-08-19: Enumerate common Windows security misconfigurations which can be leveraged for privilege escalation and gather various information which might be useful for exploitation and/or post-exploitation, by itm4n.
-* [juicy-potato](https://github.com/ohpe/juicy-potato) ⭐ 2,813 | 🐛 12 | 🌐 C++ | 📅 2021-12-18: A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
+* [PrivescCheck](https://github.com/itm4n/PrivescCheck) ⭐ 3,918 | 🐛 2 | 🌐 PowerShell | 📅 2026-08-19: Enumerate common Windows security misconfigurations which can be leveraged for privilege escalation and gather various information which might be useful for exploitation and/or post-exploitation, by itm4n.
+* [juicy-potato](https://github.com/ohpe/juicy-potato) ⭐ 2,814 | 🐛 12 | 🌐 C++ | 📅 2021-12-18: A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
 * [WinPwnage](https://github.com/rootm0s/WinPwnage) ⭐ 2,751 | 🐛 5 | 🌐 Python | 📅 2023-02-13: UAC bypass, Elevate, Persistence and Execution methods. The goal of this repo is to study the Windows penetration techniques.
 * [GodPotato](https://github.com/BeichenDream/GodPotato) ⭐ 2,334 | 🐛 7 | 🌐 C# | 📅 2023-11-24: GodPotato enables privilege escalation in Windows 2012 - Windows 2022, now as long as you have "ImpersonatePrivilege" permission.
 * [Sherlock](https://github.com/rasta-mouse/Sherlock/) ⚠️ Archived: PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities. (Deprecated)
-* [JAWS - Just Another Windows (Enum) Script](https://github.com/411Hall/JAWS) ⭐ 1,985 | 🐛 5 | 🌐 PowerShell | 📅 2021-04-19: JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.
+* [JAWS - Just Another Windows (Enum) Script](https://github.com/411Hall/JAWS) ⭐ 1,987 | 🐛 5 | 🌐 PowerShell | 📅 2021-04-19: JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.
 * [SweetPotato](https://github.com/CCob/SweetPotato) ⭐ 1,837 | 🐛 8 | 🌐 C# | 📅 2024-09-04:  Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019 by CCob
 * [Watson](https://github.com/rasta-mouse/Watson) ⚠️ Archived: Watson is a .NET tool designed to enumerate missing KBs and suggest exploits for Privilege Escalation vulnerabilities.
 * [windows-privesc-check](https://github.com/pentestmonkey/windows-privesc-check) ⭐ 1,500 | 🐛 16 | 🌐 Python | 📅 2023-08-01: Standalone executable that runs on Windows systems. It tries to find misconfigurations that could allow local unprivileged users to escalate privileges to other users or to access local apps (e.g. databases).
@@ -246,7 +246,7 @@ A curated list of awesome privilege escalation
 ## Linux and Windows
 
 * [Awesome-Hacking-Resources (Privilege escalation section)](https://github.com/vitalysim/Awesome-Hacking-Resources#privilege-escalation) ⭐ 17,336 | 🐛 28 | 📅 2026-05-21: A collection of hacking / penetration testing resources to make you better!
-* [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) ⭐ 2,124 | 🐛 0 | 🌐 Batchfile | 📅 2022-10-09
+* [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) ⭐ 2,125 | 🐛 0 | 🌐 Batchfile | 📅 2022-10-09
 * [Metasploit Local Exploit Suggester: Do Less, Get More!](https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/)
 * [My 5 Top Ways to Escalate Privileges](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/my-5-top-ways-to-escalate-privileges/): Bruno Oliveira's top 5 favorite ways for accomplishing privilege escalation in the most practical ways possible.
 * [Privilege Escalation](https://pentestlab.blog/category/privilege-escalation/): Privilege Escalation category by pentestlab.blog
@@ -271,7 +271,7 @@ A curated list of awesome privilege escalation
 
 ### Tools
 
-* [CDK](https://github.com/cdk-team/CDK) ⭐ 4,734 | 🐛 15 | 🌐 Go | 📅 2026-05-01: CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency.
+* [CDK](https://github.com/cdk-team/CDK) ⭐ 4,736 | 🐛 15 | 🌐 Go | 📅 2026-05-01: CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency.
 * [Deepce](https://github.com/stealthcopter/deepce) ⭐ 1,559 | 🐛 9 | 🌐 Shell | 📅 2025-12-21: Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)
 * [BOtB](https://github.com/brompwnie/botb) ⭐ 685 | 🐛 7 | 🌐 Go | 📅 2023-09-27: BOtB is a container analysis and exploitation tool designed to be used by pentesters and engineers while also being CI/CD friendly with common CI/CD technologies.
 * [Dokcer-escape-tool](https://github.com/PercussiveElbow/docker-escape-tool) ⭐ 157 | 🐛 8 | 🌐 Crystal | 📅 2022-12-21: This tool will help identify if you're in a Docker container and try some quick escape techniques to help assess the security of your containers.
@@ -294,7 +294,7 @@ A curated list of awesome privilege escalation
 ### GCP
 
 * [Tutorial on privilege escalation and post exploitation tactics in Google Cloud Platform environments](https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/): Very deep-dive into manual post-exploitation tactics and techniques for GCP.
-* [GCP-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) ⭐ 426 | 🐛 9 | 🌐 Python | 📅 2025-10-06: IAM Privilege Escalation in GCP by RhinoSecurity.
+* [GCP-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) ⭐ 427 | 🐛 9 | 🌐 Python | 📅 2025-10-06: IAM Privilege Escalation in GCP by RhinoSecurity.
 
 #### Tools
 
@@ -302,4 +302,4 @@ A curated list of awesome privilege escalation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
