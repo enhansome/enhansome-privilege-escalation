@@ -15,7 +15,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80261
+            "stars": 80289
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-10-20T02:12:59Z",
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 5987
+            "stars": 5986
           }
         },
         {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-17T05:40:59Z",
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20348
+                "stars": 20356
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-03-20T13:15:21Z",
                 "owner": "The-Z-Labs",
                 "repo": "linux-exploit-suggester",
-                "stars": 6592
+                "stars": 6591
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-03-01T09:06:16Z",
                 "owner": "DominicBreuker",
                 "repo": "pspy",
-                "stars": 6155
+                "stars": 6156
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2023-01-28T05:01:23Z",
                 "owner": "jondonas",
                 "repo": "linux-exploit-suggester-2",
-                "stars": 1974
+                "stars": 1973
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2022-01-31T10:32:08Z",
                 "owner": "sleventyeleven",
                 "repo": "linuxprivchecker",
-                "stars": 1828
+                "stars": 1830
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2021-02-07T21:47:46Z",
                 "owner": "pentestmonkey",
                 "repo": "unix-privesc-check",
-                "stars": 1081
+                "stars": 1082
               }
             },
             {
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80261
+            "stars": 80289
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2026-02-05T21:59:39Z",
             "owner": "nickvourd",
             "repo": "Windows-Local-Privilege-Escalation-Cookbook",
-            "stars": 1367
+            "stars": 1368
           }
         },
         {
@@ -592,7 +592,7 @@
                 "last_commit": "2026-08-17T05:40:59Z",
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20348
+                "stars": 20356
               }
             },
             {
@@ -607,7 +607,7 @@
                 "last_commit": "2020-08-17T23:19:49Z",
                 "owner": "PowerShellMafia",
                 "repo": "PowerSploit",
-                "stars": 13088
+                "stars": 13087
               }
             },
             {
@@ -622,7 +622,7 @@
                 "last_commit": "2026-08-21T12:18:41Z",
                 "owner": "bitsadmin",
                 "repo": "wesng",
-                "stars": 4922
+                "stars": 4923
               }
             },
             {
@@ -637,7 +637,7 @@
                 "last_commit": "2025-01-10T20:12:49Z",
                 "owner": "GhostPack",
                 "repo": "Seatbelt",
-                "stars": 4679
+                "stars": 4682
               }
             },
             {
@@ -652,7 +652,7 @@
                 "last_commit": "2023-05-11T12:44:55Z",
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4231
+                "stars": 4230
               }
             },
             {
@@ -667,7 +667,7 @@
                 "last_commit": "2026-08-19T13:07:45Z",
                 "owner": "itm4n",
                 "repo": "PrivescCheck",
-                "stars": 3920
+                "stars": 3922
               }
             },
             {
@@ -682,7 +682,7 @@
                 "last_commit": "2021-12-18T16:00:18Z",
                 "owner": "ohpe",
                 "repo": "juicy-potato",
-                "stars": 2814
+                "stars": 2816
               }
             },
             {
@@ -697,7 +697,7 @@
                 "last_commit": "2023-02-13T09:43:13Z",
                 "owner": "rootm0s",
                 "repo": "WinPwnage",
-                "stars": 2751
+                "stars": 2752
               }
             },
             {
@@ -742,7 +742,7 @@
                 "last_commit": "2021-04-19T14:53:29Z",
                 "owner": "411Hall",
                 "repo": "JAWS",
-                "stars": 1987
+                "stars": 1989
               }
             },
             {
@@ -892,7 +892,7 @@
                 "last_commit": "2017-12-29T14:23:20Z",
                 "owner": "foxglovesec",
                 "repo": "RottenPotato",
-                "stars": 694
+                "stars": 696
               }
             },
             {
@@ -963,7 +963,7 @@
             "last_commit": "2026-05-21T07:37:46Z",
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17338
+            "stars": 17340
           }
         },
         {
@@ -1074,7 +1074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:51:48.916Z",
+    "last_updated": "2026-08-23T05:54:00.969Z",
     "original_repository": "m0nad/awesome-privilege-escalation",
     "original_repository_id": 225346478,
     "original_repository_sha": "26c2658bfde971bc7c24f4a100a41faa19189d85",
