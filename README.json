@@ -15,7 +15,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80343
+            "stars": 80372
           }
         },
         {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-24T11:24:17Z",
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20372
+                "stars": 20375
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2024-03-12T21:01:14Z",
                 "owner": "liamg",
                 "repo": "traitor",
-                "stars": 7162
+                "stars": 7160
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2020-07-13T05:02:00Z",
                 "owner": "SecWiki",
                 "repo": "linux-kernel-exploits",
-                "stars": 5651
+                "stars": 5650
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-03-11T14:40:44Z",
                 "owner": "TH3xACE",
                 "repo": "SUDO_KILLER",
-                "stars": 2480
+                "stars": 2481
               }
             },
             {
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80343
+            "stars": 80372
           }
         },
         {
@@ -614,7 +614,7 @@
                 "last_commit": "2026-08-24T11:24:17Z",
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20372
+                "stars": 20375
               }
             },
             {
@@ -689,7 +689,7 @@
                 "last_commit": "2026-08-19T13:07:45Z",
                 "owner": "itm4n",
                 "repo": "PrivescCheck",
-                "stars": 3923
+                "stars": 3926
               }
             },
             {
@@ -704,7 +704,7 @@
                 "last_commit": "2021-12-18T16:00:18Z",
                 "owner": "ohpe",
                 "repo": "juicy-potato",
-                "stars": 2817
+                "stars": 2820
               }
             },
             {
@@ -764,7 +764,7 @@
                 "last_commit": "2021-04-19T14:53:29Z",
                 "owner": "411Hall",
                 "repo": "JAWS",
-                "stars": 1990
+                "stars": 1991
               }
             },
             {
@@ -985,7 +985,7 @@
             "last_commit": "2026-05-21T07:37:46Z",
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17352
+            "stars": 17357
           }
         },
         {
@@ -1068,7 +1068,7 @@
                 "last_commit": "2023-09-27T08:20:01Z",
                 "owner": "brompwnie",
                 "repo": "botb",
-                "stars": 683
+                "stars": 684
               }
             },
             {
@@ -1143,7 +1143,7 @@
                     "last_commit": "2026-05-19T22:31:37Z",
                     "owner": "RhinoSecurityLabs",
                     "repo": "pacu",
-                    "stars": 5308
+                    "stars": 5310
                   }
                 }
               ],
@@ -1205,7 +1205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:36.867Z",
+    "last_updated": "2026-08-26T05:58:38.708Z",
     "original_repository": "m0nad/awesome-privilege-escalation",
     "original_repository_id": 225346478,
     "original_repository_sha": "26c2658bfde971bc7c24f4a100a41faa19189d85",
