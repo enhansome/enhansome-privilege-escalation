@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T07:52:21Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80420
+            "stars": 80429
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-14T12:52:52Z",
             "owner": "Ignitetechnologies",
             "repo": "Privilege-Escalation",
-            "stars": 3630
+            "stars": 3631
           }
         },
         {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-24T11:24:17Z",
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20387
+                "stars": 20388
               }
             },
             {
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-27T07:52:21Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80420
+            "stars": 80429
           }
         },
         {
@@ -614,7 +614,7 @@
                 "last_commit": "2026-08-24T11:24:17Z",
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20387
+                "stars": 20388
               }
             },
             {
@@ -689,7 +689,7 @@
                 "last_commit": "2026-08-19T13:07:45Z",
                 "owner": "itm4n",
                 "repo": "PrivescCheck",
-                "stars": 3928
+                "stars": 3929
               }
             },
             {
@@ -794,7 +794,7 @@
                 "last_commit": "2020-11-28T07:35:51Z",
                 "owner": "rasta-mouse",
                 "repo": "Watson",
-                "stars": 1680
+                "stars": 1679
               }
             },
             {
@@ -959,7 +959,7 @@
                 "last_commit": "2024-10-29T07:30:35Z",
                 "owner": "deepinstinct",
                 "repo": "NoFilter",
-                "stars": 305
+                "stars": 304
               }
             }
           ],
@@ -985,7 +985,7 @@
             "last_commit": "2026-05-21T07:37:46Z",
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17359
+            "stars": 17360
           }
         },
         {
@@ -1038,7 +1038,7 @@
                 "last_commit": "2026-05-01T08:14:30Z",
                 "owner": "cdk-team",
                 "repo": "CDK",
-                "stars": 4740
+                "stars": 4739
               }
             },
             {
@@ -1143,7 +1143,7 @@
                     "last_commit": "2026-05-19T22:31:37Z",
                     "owner": "RhinoSecurityLabs",
                     "repo": "pacu",
-                    "stars": 5312
+                    "stars": 5313
                   }
                 }
               ],
@@ -1205,7 +1205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:52.765Z",
+    "last_updated": "2026-08-27T16:37:41.872Z",
     "original_repository_info": {
       "archived": false,
       "id": 225346478,
