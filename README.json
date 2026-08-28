@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T07:52:21Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80429
-          }
+            "stars": 80458
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
             "stars": 5987
-          }
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Ignitetechnologies",
             "repo": "Privilege-Escalation",
             "stars": 3631
-          }
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "RackunSec",
             "repo": "Penetration-Testing-Grimoire",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "lamontns",
             "repo": "pentest",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "children": [
@@ -92,8 +97,9 @@
                 "last_commit": "2026-08-24T11:24:17Z",
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20388
-              }
+                "stars": 20390
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -107,8 +113,9 @@
                 "last_commit": "2023-09-06T18:02:29Z",
                 "owner": "rebootuser",
                 "repo": "LinEnum",
-                "stars": 8014
-              }
+                "stars": 8016
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "liamg",
                 "repo": "traitor",
                 "stars": 7160
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "The-Z-Labs",
                 "repo": "linux-exploit-suggester",
                 "stars": 6595
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -152,8 +161,9 @@
                 "last_commit": "2026-03-01T09:06:16Z",
                 "owner": "DominicBreuker",
                 "repo": "pspy",
-                "stars": 6155
-              }
+                "stars": 6158
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "SecWiki",
                 "repo": "linux-kernel-exploits",
                 "stars": 5650
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -182,8 +193,9 @@
                 "last_commit": "2026-05-03T19:54:09Z",
                 "owner": "diego-treitos",
                 "repo": "linux-smart-enumeration",
-                "stars": 3963
-              }
+                "stars": 3969
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -197,8 +209,9 @@
                 "last_commit": "2024-10-04T11:54:01Z",
                 "owner": "AlessandroZ",
                 "repo": "BeRoot",
-                "stars": 2621
-              }
+                "stars": 2622
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "TH3xACE",
                 "repo": "SUDO_KILLER",
                 "stars": 2481
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "jondonas",
                 "repo": "linux-exploit-suggester-2",
                 "stars": 1973
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "sleventyeleven",
                 "repo": "linuxprivchecker",
                 "stars": 1834
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "InteliSecureLabs",
                 "repo": "Linux_Exploit_Suggester",
                 "stars": 1812
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "pentestmonkey",
                 "repo": "unix-privesc-check",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "1N3",
                 "repo": "PrivEsc",
                 "stars": 991
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "infinite-horizon219",
                 "repo": "Unix-Privilege-Escalation-Exploits-Pack",
                 "stars": 822
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "spencerdodd",
                 "repo": "kernelpop",
                 "stars": 702
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "linted",
                 "repo": "linuxprivchecker",
                 "stars": 666
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -344,11 +366,12 @@
                 "archived": false,
                 "id": 330788903,
                 "language": "Python",
-                "last_commit": "2026-08-21T01:53:14Z",
+                "last_commit": "2026-08-28T11:16:48Z",
                 "owner": "Frissi0n",
                 "repo": "GTFONow",
-                "stars": 638
-              }
+                "stars": 639
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -363,7 +386,8 @@
                 "owner": "ngalongc",
                 "repo": "AutoLocalPrivilegeEscalation",
                 "stars": 496
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -378,7 +402,8 @@
                 "owner": "initstring",
                 "repo": "uptux",
                 "stars": 301
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -393,7 +418,8 @@
                 "owner": "belane",
                 "repo": "linux-soft-exploit-suggester",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -408,7 +434,8 @@
                 "owner": "hackerschoice",
                 "repo": "ttyinject",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -423,7 +450,8 @@
                 "owner": "pentestmonkey",
                 "repo": "exploit-suggester",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "children": [
@@ -440,7 +468,8 @@
                     "owner": "clearlinux",
                     "repo": "cve-check-tool",
                     "stars": 211
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:33:28.010Z"
                 },
                 {
                   "node_type": "item",
@@ -455,7 +484,8 @@
                     "owner": "davbo",
                     "repo": "active-cve-check",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:33:28.010Z"
                 },
                 {
                   "node_type": "item",
@@ -470,7 +500,8 @@
                     "owner": "lwindolf",
                     "repo": "lpvs",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:33:28.010Z"
                 }
               ],
               "description": null,
@@ -500,8 +531,9 @@
             "last_commit": "2026-08-27T07:52:21Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80429
-          }
+            "stars": 80458
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "node_type": "item",
@@ -515,8 +547,9 @@
             "last_commit": "2026-02-05T21:59:39Z",
             "owner": "nickvourd",
             "repo": "Windows-Local-Privilege-Escalation-Cookbook",
-            "stars": 1368
-          }
+            "stars": 1369
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "node_type": "item",
@@ -530,8 +563,9 @@
             "last_commit": "2020-03-25T22:35:02Z",
             "owner": "frizb",
             "repo": "Windows-Privilege-Escalation",
-            "stars": 994
-          }
+            "stars": 995
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "node_type": "item",
@@ -546,7 +580,8 @@
             "owner": "TCM-Course-Resources",
             "repo": "Windows-Privilege-Escalation-Resources",
             "stars": 813
-          }
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "node_type": "item",
@@ -561,7 +596,8 @@
             "owner": "chryzsh",
             "repo": "awesome-windows-security",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "node_type": "item",
@@ -576,7 +612,8 @@
             "owner": "lamontns",
             "repo": "pentest",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "children": [
@@ -593,7 +630,8 @@
                 "owner": "Prepouce",
                 "repo": "CoercedPotato",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             }
           ],
           "description": null,
@@ -614,8 +652,9 @@
                 "last_commit": "2026-08-24T11:24:17Z",
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20388
-              }
+                "stars": 20390
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -629,8 +668,9 @@
                 "last_commit": "2020-08-17T23:19:49Z",
                 "owner": "PowerShellMafia",
                 "repo": "PowerSploit",
-                "stars": 13085
-              }
+                "stars": 13086
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -645,7 +685,8 @@
                 "owner": "bitsadmin",
                 "repo": "wesng",
                 "stars": 4924
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -659,8 +700,9 @@
                 "last_commit": "2025-01-10T20:12:49Z",
                 "owner": "GhostPack",
                 "repo": "Seatbelt",
-                "stars": 4684
-              }
+                "stars": 4685
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -675,7 +717,8 @@
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
                 "stars": 4230
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -690,7 +733,8 @@
                 "owner": "itm4n",
                 "repo": "PrivescCheck",
                 "stars": 3929
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -705,7 +749,8 @@
                 "owner": "ohpe",
                 "repo": "juicy-potato",
                 "stars": 2820
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -720,7 +765,8 @@
                 "owner": "rootm0s",
                 "repo": "WinPwnage",
                 "stars": 2753
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -734,8 +780,9 @@
                 "last_commit": "2023-11-24T19:22:31Z",
                 "owner": "BeichenDream",
                 "repo": "GodPotato",
-                "stars": 2335
-              }
+                "stars": 2336
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -750,7 +797,8 @@
                 "owner": "rasta-mouse",
                 "repo": "Sherlock",
                 "stars": 2020
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -765,7 +813,8 @@
                 "owner": "411Hall",
                 "repo": "JAWS",
                 "stars": 1994
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -780,7 +829,8 @@
                 "owner": "CCob",
                 "repo": "SweetPotato",
                 "stars": 1839
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -795,7 +845,8 @@
                 "owner": "rasta-mouse",
                 "repo": "Watson",
                 "stars": 1679
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -810,7 +861,8 @@
                 "owner": "pentestmonkey",
                 "repo": "windows-privesc-check",
                 "stars": 1500
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -825,7 +877,8 @@
                 "owner": "antonioCoco",
                 "repo": "RemotePotato0",
                 "stars": 1469
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -840,7 +893,8 @@
                 "owner": "Arvanaghi",
                 "repo": "SessionGopher",
                 "stars": 1334
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -855,7 +909,8 @@
                 "owner": "antonioCoco",
                 "repo": "RoguePotato",
                 "stars": 1177
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -870,7 +925,8 @@
                 "owner": "hausec",
                 "repo": "ADAPE-Script",
                 "stars": 1125
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -885,7 +941,8 @@
                 "owner": "breenmachine",
                 "repo": "RottenPotatoNG",
                 "stars": 977
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -900,7 +957,8 @@
                 "owner": "foxglovesec",
                 "repo": "Potato",
                 "stars": 743
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -915,7 +973,8 @@
                 "owner": "foxglovesec",
                 "repo": "RottenPotato",
                 "stars": 696
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -930,7 +989,8 @@
                 "owner": "Kevin-Robertson",
                 "repo": "Tater",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -945,7 +1005,8 @@
                 "owner": "absolomb",
                 "repo": "WindowsEnum",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -960,7 +1021,8 @@
                 "owner": "deepinstinct",
                 "repo": "NoFilter",
                 "stars": 304
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             }
           ],
           "description": null,
@@ -985,8 +1047,9 @@
             "last_commit": "2026-05-21T07:37:46Z",
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17360
-          }
+            "stars": 17362
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "node_type": "item",
@@ -1000,8 +1063,9 @@
             "last_commit": "2022-10-09T04:34:28Z",
             "owner": "sagishahar",
             "repo": "lpeworkshop",
-            "stars": 2124
-          }
+            "stars": 2125
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         }
       ],
       "title": "Linux and Windows"
@@ -1022,7 +1086,8 @@
             "owner": "PercussiveElbow",
             "repo": "docker-security-checklist",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:33:28.010Z"
         },
         {
           "children": [
@@ -1039,7 +1104,8 @@
                 "owner": "cdk-team",
                 "repo": "CDK",
                 "stars": 4739
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -1053,8 +1119,9 @@
                 "last_commit": "2025-12-21T11:52:01Z",
                 "owner": "stealthcopter",
                 "repo": "deepce",
-                "stars": 1567
-              }
+                "stars": 1566
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -1069,7 +1136,8 @@
                 "owner": "brompwnie",
                 "repo": "botb",
                 "stars": 685
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -1084,7 +1152,8 @@
                 "owner": "PercussiveElbow",
                 "repo": "docker-escape-tool",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "node_type": "item",
@@ -1099,7 +1168,8 @@
                 "owner": "0x03f3",
                 "repo": "PrivilegedDockerEscape",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             }
           ],
           "description": null,
@@ -1127,7 +1197,8 @@
                 "owner": "RhinoSecurityLabs",
                 "repo": "AWS-IAM-Privilege-Escalation",
                 "stars": 932
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "children": [
@@ -1144,7 +1215,8 @@
                     "owner": "RhinoSecurityLabs",
                     "repo": "pacu",
                     "stars": 5313
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:33:28.010Z"
                 }
               ],
               "description": null,
@@ -1171,7 +1243,8 @@
                 "owner": "RhinoSecurityLabs",
                 "repo": "GCP-IAM-Privilege-Escalation",
                 "stars": 427
-              }
+              },
+              "first_seen": "2026-08-28T17:33:28.010Z"
             },
             {
               "children": [
@@ -1188,7 +1261,8 @@
                     "owner": "RhinoSecurityLabs",
                     "repo": "GCPBucketBrute",
                     "stars": 573
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:33:28.010Z"
                 }
               ],
               "description": null,
@@ -1205,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:37:41.872Z",
+    "last_updated": "2026-08-28T17:33:28.010Z",
     "original_repository_info": {
       "archived": false,
       "id": 225346478,
