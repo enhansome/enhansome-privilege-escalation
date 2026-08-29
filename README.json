@@ -10,12 +10,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
             "id": 71220757,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:52:21Z",
+            "open_issues": 35,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80458
+            "stars": 80467,
+            "topics": [
+              "bounty",
+              "bugbounty",
+              "bypass",
+              "cheatsheet",
+              "enumeration",
+              "hacking",
+              "hacktoberfest",
+              "methodology",
+              "payload",
+              "payloads",
+              "penetration-testing",
+              "pentest",
+              "privilege-escalation",
+              "redteam",
+              "security",
+              "vulnerability",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -26,12 +49,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.",
+            "homepage": "https://rmusser.net/docs",
             "id": 23981144,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-10-20T02:12:59Z",
+            "open_issues": 4,
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 5987
+            "stars": 5987,
+            "topics": [
+              "blueteam",
+              "forensics",
+              "hacking",
+              "hacking-simulator",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "information-security",
+              "infosec",
+              "infosec-reference",
+              "linux",
+              "osx",
+              "penetration-testing",
+              "pentesting",
+              "privilege-escalation",
+              "privilege-escalation-exploits",
+              "red-team",
+              "references",
+              "reverse-engineering",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -42,12 +90,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.",
+            "homepage": "https://hackingarticles.in",
             "id": 203941254,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-14T12:52:52Z",
+            "open_issues": 2,
             "owner": "Ignitetechnologies",
             "repo": "Privilege-Escalation",
-            "stars": 3631
+            "stars": 3631,
+            "topics": [
+              "cheatsheet",
+              "ctf",
+              "ctf-challenges",
+              "ctf-writeups",
+              "hack",
+              "hacking",
+              "oscp",
+              "oscp-journey",
+              "oscp-prep",
+              "privilege-escalation",
+              "vulnhub"
+            ]
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -58,12 +123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom Tools and Notes from my own Penetration Testing Experience",
+            "homepage": null,
             "id": 136402351,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-17T09:36:12Z",
+            "open_issues": 1,
             "owner": "RackunSec",
             "repo": "Penetration-Testing-Grimoire",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -74,12 +144,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 135476771,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-09-02T21:41:37Z",
+            "open_issues": 0,
             "owner": "lamontns",
             "repo": "pentest",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "cybersecurity",
+              "pentest-scripts"
+            ]
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -92,12 +170,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+                "homepage": "https://book.hacktricks.xyz",
                 "id": 165548191,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T11:24:17Z",
+                "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20390
+                "stars": 20390,
+                "topics": [
+                  "bash",
+                  "batch",
+                  "batch-script",
+                  "color",
+                  "csharp",
+                  "enumeration",
+                  "exe",
+                  "linpe",
+                  "linpeas",
+                  "linux",
+                  "one-liner",
+                  "oneliner",
+                  "peas",
+                  "privesc",
+                  "script",
+                  "shell",
+                  "unix",
+                  "windows",
+                  "winpeas"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -108,12 +211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripted Local Linux Enumeration & Privilege Escalation Checks",
+                "homepage": null,
                 "id": 12236152,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-09-06T18:02:29Z",
+                "open_issues": 25,
                 "owner": "rebootuser",
                 "repo": "LinEnum",
-                "stars": 8016
+                "stars": 8017,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -124,12 +232,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",
+                "homepage": null,
                 "id": 332424498,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-03-12T21:01:14Z",
+                "open_issues": 22,
                 "owner": "liamg",
                 "repo": "traitor",
-                "stars": 7160
+                "stars": 7160,
+                "topics": [
+                  "cve-2021-3560",
+                  "cve-2022-0847",
+                  "dirtypipe",
+                  "exploit",
+                  "gtfobins",
+                  "hackthebox",
+                  "infosec",
+                  "privesc",
+                  "privilege-escalation",
+                  "redteam-tools",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -140,12 +265,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux privilege escalation auditing tool",
+                "homepage": null,
                 "id": 70196342,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-20T13:15:21Z",
+                "open_issues": 24,
                 "owner": "The-Z-Labs",
                 "repo": "linux-exploit-suggester",
-                "stars": 6595
+                "stars": 6595,
+                "topics": [
+                  "applicable-exploits",
+                  "exploits",
+                  "hacking-tool",
+                  "kernel-exploitation",
+                  "kernel-exploits",
+                  "linux-exploits",
+                  "linux-kernel",
+                  "lpe",
+                  "privilege-escalation-exploits",
+                  "published-exploits",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -156,12 +298,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monitor linux processes without root permissions",
+                "homepage": null,
                 "id": 120821432,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-01T09:06:16Z",
+                "open_issues": 3,
                 "owner": "DominicBreuker",
                 "repo": "pspy",
-                "stars": 6158
+                "stars": 6160,
+                "topics": [
+                  "ctf",
+                  "enumeration",
+                  "golang",
+                  "pentesting",
+                  "privesc",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -172,12 +326,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "linux-kernel-exploits Linux平台提权漏洞集合",
+                "homepage": null,
                 "id": 89318964,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-07-13T05:02:00Z",
+                "open_issues": 4,
                 "owner": "SecWiki",
                 "repo": "linux-kernel-exploits",
-                "stars": 5650
+                "stars": 5650,
+                "topics": [
+                  "awesome",
+                  "collection",
+                  "exploit",
+                  "kernel",
+                  "linux",
+                  "pentest",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -188,12 +355,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux enumeration tool for pentesting and CTFs with verbosity levels",
+                "homepage": null,
                 "id": 170493053,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-03T19:54:09Z",
+                "open_issues": 3,
                 "owner": "diego-treitos",
                 "repo": "linux-smart-enumeration",
-                "stars": 3969
+                "stars": 3970,
+                "topics": [
+                  "ctfs",
+                  "hacking",
+                  "hackthebox",
+                  "linux-enumeration",
+                  "oscp",
+                  "pentesting",
+                  "privesc",
+                  "privilege-escalation"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -204,12 +385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Privilege Escalation Project - Windows / Linux / Mac",
+                "homepage": null,
                 "id": 88267073,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-10-04T11:54:01Z",
+                "open_issues": 6,
                 "owner": "AlessandroZ",
                 "repo": "BeRoot",
-                "stars": 2622
+                "stars": 2622,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -220,12 +406,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
+                "homepage": null,
                 "id": 160875594,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-11T14:40:44Z",
+                "open_issues": 1,
                 "owner": "TH3xACE",
                 "repo": "SUDO_KILLER",
-                "stars": 2481
+                "stars": 2481,
+                "topics": [
+                  "abuse-sudo",
+                  "ctf",
+                  "cve",
+                  "exploits",
+                  "linux-exploits",
+                  "misconfiguration",
+                  "oscp",
+                  "oscp-journey",
+                  "oscp-prep",
+                  "oscp-tools",
+                  "pentest",
+                  "pentest-tool",
+                  "privilege-escalation",
+                  "sudo",
+                  "sudo-exploitation"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -236,12 +443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next-Generation Linux Kernel Exploit Suggester",
+                "homepage": null,
                 "id": 64172044,
                 "language": "Perl",
+                "license": "GPL-2.0",
                 "last_commit": "2023-01-28T05:01:23Z",
+                "open_issues": 0,
                 "owner": "jondonas",
                 "repo": "linux-exploit-suggester-2",
-                "stars": 1973
+                "stars": 1973,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -252,12 +464,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "linuxprivchecker.py -- a Linux Privilege Escalation Check Script",
+                "homepage": null,
                 "id": 56599386,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-31T10:32:08Z",
+                "open_issues": 1,
                 "owner": "sleventyeleven",
                 "repo": "linuxprivchecker",
-                "stars": 1834
+                "stars": 1834,
+                "topics": [
+                  "ctf-tools",
+                  "hackthebox",
+                  "htb",
+                  "linux-privilege-escalation",
+                  "linux-security",
+                  "oscp",
+                  "oscp-tools",
+                  "pentest-tools",
+                  "pentesting",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -268,12 +496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux Exploit Suggester; based on operating system release number ",
+                "homepage": null,
                 "id": 12384054,
                 "language": "Perl",
+                "license": "GPL-2.0",
                 "last_commit": "2014-05-19T06:23:20Z",
+                "open_issues": 4,
                 "owner": "InteliSecureLabs",
                 "repo": "Linux_Exploit_Suggester",
-                "stars": 1812
+                "stars": 1812,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -284,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically exported from code.google.com/p/unix-privesc-check",
+                "homepage": null,
                 "id": 32677065,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-02-07T21:47:46Z",
+                "open_issues": 27,
                 "owner": "pentestmonkey",
                 "repo": "unix-privesc-check",
-                "stars": 1082
+                "stars": 1082,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -300,12 +538,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.",
+                "homepage": "https://crowdshield.com",
                 "id": 71915988,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-12-13T20:09:28Z",
+                "open_issues": 1,
                 "owner": "1N3",
                 "repo": "PrivEsc",
-                "stars": 991
+                "stars": 991,
+                "topics": [
+                  "bugbounty",
+                  "exploits",
+                  "hacking",
+                  "linux",
+                  "mysql",
+                  "pentesting",
+                  "privesc",
+                  "sql",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -316,12 +569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploits for getting local root on Linux, BSD, AIX, HP-UX, Solaris, RHEL, SUSE etc.",
+                "homepage": null,
                 "id": 28462705,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-04-11T16:25:23Z",
+                "open_issues": 2,
                 "owner": "infinite-horizon219",
                 "repo": "Unix-Privilege-Escalation-Exploits-Pack",
-                "stars": 822
+                "stars": 822,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -332,12 +590,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "kernel privilege escalation enumeration and exploitation framework",
+                "homepage": null,
                 "id": 107932322,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-02T22:40:52Z",
+                "open_issues": 8,
                 "owner": "spencerdodd",
                 "repo": "kernelpop",
-                "stars": 702
+                "stars": 702,
+                "topics": [
+                  "enumeration",
+                  "exploits",
+                  "kernel",
+                  "security",
+                  "tools",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -348,12 +618,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "linuxprivchecker.py -- a Linux Privilege Escalation Check Script",
+                "homepage": null,
                 "id": 102976120,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-06T21:01:13Z",
+                "open_issues": 0,
                 "owner": "linted",
                 "repo": "linuxprivchecker",
-                "stars": 666
+                "stars": 666,
+                "topics": [
+                  "ctf-tools",
+                  "hackthebox",
+                  "htb",
+                  "oscp",
+                  "penetration-testing",
+                  "pentest-tool",
+                  "pentesting",
+                  "privilege-escalation",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -364,12 +649,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.",
+                "homepage": null,
                 "id": 330788903,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:16:48Z",
+                "open_issues": 53,
                 "owner": "Frissi0n",
                 "repo": "GTFONow",
-                "stars": 639
+                "stars": 639,
+                "topics": [
+                  "ctf",
+                  "ctf-tools",
+                  "gtfobins",
+                  "hacking",
+                  "hackthebox",
+                  "offensive-security",
+                  "pentest",
+                  "pentesting",
+                  "post-exploitation",
+                  "privilege-escalation",
+                  "redteam",
+                  "security",
+                  "security-tools",
+                  "suid-binaries"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -380,12 +685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An automated script that download potential exploit for linux kernel from exploitdb, and compile them automatically",
+                "homepage": null,
                 "id": 54310382,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-21T08:26:28Z",
+                "open_issues": 3,
                 "owner": "ngalongc",
                 "repo": "AutoLocalPrivilegeEscalation",
-                "stars": 496
+                "stars": 496,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -396,12 +706,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux privilege escalation checks (systemd, dbus, socket fun, etc)",
+                "homepage": null,
                 "id": 160078425,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-10-02T22:11:16Z",
+                "open_issues": 1,
                 "owner": "initstring",
                 "repo": "uptux",
-                "stars": 301
+                "stars": 301,
+                "topics": [
+                  "hacking",
+                  "pentesting",
+                  "privilege-escalation"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -412,12 +731,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search Exploitable Software on Linux",
+                "homepage": null,
                 "id": 98024693,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-14T16:36:05Z",
+                "open_issues": 0,
                 "owner": "belane",
                 "repo": "linux-soft-exploit-suggester",
-                "stars": 236
+                "stars": 236,
+                "topics": [
+                  "ctf",
+                  "elevate",
+                  "exploits",
+                  "hacking-tool",
+                  "linux",
+                  "pentest",
+                  "security",
+                  "security-tools",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -428,12 +762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get root via TTY / TIOCSTI stuffing",
+                "homepage": null,
                 "id": 796844267,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-05-12T17:48:23Z",
+                "open_issues": 0,
                 "owner": "hackerschoice",
                 "repo": "ttyinject",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -444,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This tool reads the output of “showrev -p” on Solaris machines and outputs a list of exploits that you might want to try.  It currently focusses on local exploitation of Solaris 8 on SPARC, but other version of Solaris are partially supported.",
+                "homepage": null,
                 "id": 36526517,
                 "language": "Perl",
+                "license": "GPL-2.0",
                 "last_commit": "2015-05-29T20:09:28Z",
+                "open_issues": 0,
                 "owner": "pentestmonkey",
                 "repo": "exploit-suggester",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -462,12 +806,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Original Automated CVE Checking Tool",
+                    "homepage": null,
                     "id": 32813502,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2019-06-21T14:36:53Z",
+                    "open_issues": 30,
                     "owner": "clearlinux",
                     "repo": "cve-check-tool",
-                    "stars": 211
+                    "stars": 211,
+                    "topics": [
+                      "cve",
+                      "database",
+                      "nvd",
+                      "vulnerability",
+                      "xml"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:33:28.010Z"
                 },
@@ -478,12 +833,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Script to check an installed packages list against the ubuntu-cve-tracker",
+                    "homepage": null,
                     "id": 80365693,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2017-09-20T14:52:54Z",
+                    "open_issues": 0,
                     "owner": "davbo",
                     "repo": "active-cve-check",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:33:28.010Z"
                 },
@@ -494,12 +854,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Linux Package Vulnerability Scanner",
+                    "homepage": null,
                     "id": 7705193,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2017-12-13T11:50:15Z",
+                    "open_issues": 1,
                     "owner": "lwindolf",
                     "repo": "lpvs",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:33:28.010Z"
                 }
@@ -526,12 +891,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
             "id": 71220757,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:52:21Z",
+            "open_issues": 35,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80458
+            "stars": 80467,
+            "topics": [
+              "bounty",
+              "bugbounty",
+              "bypass",
+              "cheatsheet",
+              "enumeration",
+              "hacking",
+              "hacktoberfest",
+              "methodology",
+              "payload",
+              "payloads",
+              "penetration-testing",
+              "pentest",
+              "privilege-escalation",
+              "redteam",
+              "security",
+              "vulnerability",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -542,12 +930,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows Local Privilege Escalation Cookbook",
+            "homepage": null,
             "id": 287029229,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-02-05T21:59:39Z",
+            "open_issues": 3,
             "owner": "nickvourd",
             "repo": "Windows-Local-Privilege-Escalation-Cookbook",
-            "stars": 1369
+            "stars": 1369,
+            "topics": [
+              "administrator",
+              "administrator-privileges",
+              "cheatsheet",
+              "cmd",
+              "cookbook",
+              "eop",
+              "lab",
+              "lab-automation",
+              "local-administration",
+              "local-privilege-escalation",
+              "lpe",
+              "microsoft",
+              "misconfiguration",
+              "oscp",
+              "oscp-prep",
+              "osep",
+              "osep-prep",
+              "powershell",
+              "privilege-escalation",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -558,12 +972,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows Privilege Escalation Techniques and Scripts",
+            "homepage": null,
             "id": 91092743,
             "language": "Batchfile",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-03-25T22:35:02Z",
+            "open_issues": 3,
             "owner": "frizb",
             "repo": "Windows-Privilege-Escalation",
-            "stars": 995
+            "stars": 995,
+            "topics": [
+              "kali-linux",
+              "oscp",
+              "windows-enumeration",
+              "windows-hacking",
+              "windows-privilege-escalation",
+              "windows-scripts"
+            ]
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -574,12 +1000,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compilation of Resources from TCM's Windows Priv Esc Udemy Course",
+            "homepage": null,
             "id": 260377417,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-23T01:26:43Z",
+            "open_issues": 1,
             "owner": "TCM-Course-Resources",
             "repo": "Windows-Privilege-Escalation-Resources",
-            "stars": 813
+            "stars": 813,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -590,12 +1021,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "List of Awesome Windows Security Resources",
+            "homepage": null,
             "id": 157068472,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-17T00:54:02Z",
+            "open_issues": 1,
             "owner": "chryzsh",
             "repo": "awesome-windows-security",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "active-directory",
+              "hacking",
+              "windows",
+              "windows-security"
+            ]
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -606,12 +1047,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 135476771,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-09-02T21:41:37Z",
+            "open_issues": 0,
             "owner": "lamontns",
             "repo": "pentest",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "cybersecurity",
+              "pentest-scripts"
+            ]
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -624,12 +1073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Windows potato to privesc",
+                "homepage": null,
                 "id": 690217716,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-20T09:02:44Z",
+                "open_issues": 1,
                 "owner": "Prepouce",
                 "repo": "CoercedPotato",
-                "stars": 399
+                "stars": 399,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             }
@@ -647,12 +1101,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+                "homepage": "https://book.hacktricks.xyz",
                 "id": 165548191,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T11:24:17Z",
+                "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20390
+                "stars": 20390,
+                "topics": [
+                  "bash",
+                  "batch",
+                  "batch-script",
+                  "color",
+                  "csharp",
+                  "enumeration",
+                  "exe",
+                  "linpe",
+                  "linpeas",
+                  "linux",
+                  "one-liner",
+                  "oneliner",
+                  "peas",
+                  "privesc",
+                  "script",
+                  "shell",
+                  "unix",
+                  "windows",
+                  "winpeas"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -663,12 +1142,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PowerSploit - A PowerShell Post-Exploitation Framework",
+                "homepage": null,
                 "id": 4456049,
                 "language": "PowerShell",
+                "license": "NOASSERTION",
                 "last_commit": "2020-08-17T23:19:49Z",
+                "open_issues": 102,
                 "owner": "PowerShellMafia",
                 "repo": "PowerSploit",
-                "stars": 13086
+                "stars": 13086,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -679,12 +1163,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Windows Exploit Suggester - Next Generation",
+                "homepage": null,
                 "id": 173464070,
                 "language": "Python",
-                "last_commit": "2026-08-21T12:18:41Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-28T17:54:40Z",
+                "open_issues": 11,
                 "owner": "bitsadmin",
                 "repo": "wesng",
-                "stars": 4924
+                "stars": 4924,
+                "topics": [
+                  "exploit",
+                  "microsoft",
+                  "patches",
+                  "suggester",
+                  "updates",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -695,12 +1191,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seatbelt is a C# project that performs a number of security oriented host-survey \"safety checks\" relevant from both offensive and defensive security perspectives.",
+                "homepage": null,
                 "id": 142192459,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-10T20:12:49Z",
+                "open_issues": 11,
                 "owner": "GhostPack",
                 "repo": "Seatbelt",
-                "stars": 4685
+                "stars": 4685,
+                "topics": [
+                  "csharp",
+                  "situational-awareness"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -711,12 +1215,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.",
+                "homepage": null,
                 "id": 21613236,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-11T12:44:55Z",
+                "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4230
+                "stars": 4230,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -727,12 +1236,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Privilege Escalation Enumeration Script for Windows",
+                "homepage": null,
                 "id": 234315083,
                 "language": "PowerShell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-19T13:07:45Z",
+                "open_issues": 2,
                 "owner": "itm4n",
                 "repo": "PrivescCheck",
-                "stars": 3929
+                "stars": 3930,
+                "topics": [
+                  "pentest-tool",
+                  "pentesting",
+                  "privilege-escalation",
+                  "windows",
+                  "windows-privilege-escalation"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -743,12 +1263,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\\SYSTEM. ",
+                "homepage": "https://ohpe.github.io/juicy-potato/",
                 "id": 142582717,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-18T16:00:18Z",
+                "open_issues": 13,
                 "owner": "ohpe",
                 "repo": "juicy-potato",
-                "stars": 2820
+                "stars": 2820,
+                "topics": [
+                  "clsid",
+                  "dcom",
+                  "juicy-potato",
+                  "privilege-escalation",
+                  "rottenpotatong",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -759,12 +1291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UAC bypass, Elevate, Persistence methods",
+                "homepage": null,
                 "id": 128671856,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-13T09:43:13Z",
+                "open_issues": 5,
                 "owner": "rootm0s",
                 "repo": "WinPwnage",
-                "stars": 2753
+                "stars": 2753,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -775,12 +1312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 581555871,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-24T19:22:31Z",
+                "open_issues": 7,
                 "owner": "BeichenDream",
                 "repo": "GodPotato",
-                "stars": 2336
+                "stars": 2337,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -791,12 +1333,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.",
+                "homepage": null,
                 "id": 86997630,
                 "language": "PowerShell",
+                "license": "GPL-3.0",
                 "last_commit": "2018-10-10T09:10:45Z",
+                "open_issues": 3,
                 "owner": "rasta-mouse",
                 "repo": "Sherlock",
-                "stars": 2020
+                "stars": 2020,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -807,12 +1354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JAWS - Just Another Windows (Enum) Script",
+                "homepage": null,
                 "id": 100495811,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2021-04-19T14:53:29Z",
+                "open_issues": 5,
                 "owner": "411Hall",
                 "repo": "JAWS",
-                "stars": 1994
+                "stars": 1994,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -823,12 +1375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019",
+                "homepage": null,
                 "id": 255136704,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2024-09-04T17:09:30Z",
+                "open_issues": 8,
                 "owner": "CCob",
                 "repo": "SweetPotato",
-                "stars": 1839
+                "stars": 1839,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -839,12 +1396,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities",
+                "homepage": null,
                 "id": 152125527,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2020-11-28T07:35:51Z",
+                "open_issues": 4,
                 "owner": "rasta-mouse",
                 "repo": "Watson",
-                "stars": 1679
+                "stars": 1679,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -855,12 +1417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standalone Executable to Check for Simple Privilege Escalation Vectors on Windows Systems",
+                "homepage": null,
                 "id": 32677099,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-01T07:35:20Z",
+                "open_issues": 16,
                 "owner": "pentestmonkey",
                 "repo": "windows-privesc-check",
-                "stars": 1500
+                "stars": 1500,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -871,12 +1438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Windows Privilege Escalation from User to Domain Admin.",
+                "homepage": null,
                 "id": 337221642,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-12-18T01:52:53Z",
+                "open_issues": 2,
                 "owner": "antonioCoco",
                 "repo": "RemotePotato0",
-                "stars": 1469
+                "stars": 1469,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -887,12 +1459,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.",
+                "homepage": null,
                 "id": 84270886,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2022-11-22T21:33:23Z",
+                "open_issues": 5,
                 "owner": "Arvanaghi",
                 "repo": "SessionGopher",
-                "stars": 1334
+                "stars": 1334,
+                "topics": [
+                  "artifacts",
+                  "pentesting",
+                  "powershell",
+                  "red-team",
+                  "registry",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -903,12 +1487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Another Windows Local Privilege Escalation from Service Account to System",
+                "homepage": null,
                 "id": 262841542,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-01-09T20:43:07Z",
+                "open_issues": 1,
                 "owner": "antonioCoco",
                 "repo": "RoguePotato",
-                "stars": 1177
+                "stars": 1177,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -919,12 +1508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Active Directory Assessment and Privilege Escalation Script",
+                "homepage": null,
                 "id": 127379109,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2022-12-07T16:29:57Z",
+                "open_issues": 2,
                 "owner": "hausec",
                 "repo": "ADAPE-Script",
-                "stars": 1125
+                "stars": 1125,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -935,12 +1529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.",
+                "homepage": null,
                 "id": 115723950,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2017-12-29T14:38:47Z",
+                "open_issues": 2,
                 "owner": "breenmachine",
                 "repo": "RottenPotatoNG",
-                "stars": 977
+                "stars": 977,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -951,12 +1550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 51362788,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2021-01-16T20:34:04Z",
+                "open_issues": 8,
                 "owner": "foxglovesec",
                 "repo": "Potato",
-                "stars": 743
+                "stars": 743,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -967,12 +1571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RottenPotato local privilege escalation from service account to SYSTEM",
+                "homepage": null,
                 "id": 69053018,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2017-12-29T14:23:20Z",
+                "open_issues": 1,
                 "owner": "foxglovesec",
                 "repo": "RottenPotato",
-                "stars": 696
+                "stars": 696,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -983,12 +1592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tater is a PowerShell implementation of the Hot Potato Windows Privilege Escalation exploit from @breenmachine and @foxglovesec",
+                "homepage": null,
                 "id": 50393843,
                 "language": "PowerShell",
+                "license": "NOASSERTION",
                 "last_commit": "2016-04-22T03:04:24Z",
+                "open_issues": 2,
                 "owner": "Kevin-Robertson",
                 "repo": "Tater",
-                "stars": 455
+                "stars": 455,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -999,12 +1613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Powershell Privilege Escalation Enumeration Script.",
+                "homepage": null,
                 "id": 125215636,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2018-03-14T13:29:33Z",
+                "open_issues": 0,
                 "owner": "absolomb",
                 "repo": "WindowsEnum",
-                "stars": 316
+                "stars": 316,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -1015,12 +1634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 672494610,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-10-29T07:30:35Z",
+                "open_issues": 2,
                 "owner": "deepinstinct",
                 "repo": "NoFilter",
-                "stars": 304
+                "stars": 304,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             }
@@ -1042,12 +1666,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of hacking / penetration testing resources to make you better!",
+            "homepage": null,
             "id": 106460002,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-05-21T07:37:46Z",
+            "open_issues": 26,
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17362
+            "stars": 17362,
+            "topics": [
+              "buffer-overflow",
+              "ctf",
+              "exploit",
+              "hacking",
+              "malware",
+              "mitm",
+              "owasp",
+              "penetration-testing",
+              "privilege-escalation",
+              "privilege-escalation-linux",
+              "reverse-engineering",
+              "windows-privilege-escalation"
+            ]
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -1058,12 +1700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows / Linux Local Privilege Escalation Workshop",
+            "homepage": null,
             "id": 215803606,
             "language": "Batchfile",
+            "license": "MIT",
             "last_commit": "2022-10-09T04:34:28Z",
+            "open_issues": 0,
             "owner": "sagishahar",
             "repo": "lpeworkshop",
-            "stars": 2125
+            "stars": 2125,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         }
@@ -1080,12 +1727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 319785975,
             "language": null,
+            "license": null,
             "last_commit": "2021-03-30T14:33:58Z",
+            "open_issues": 0,
             "owner": "PercussiveElbow",
             "repo": "docker-security-checklist",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
         },
@@ -1098,12 +1750,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📦  Make security testing of K8s, Docker, and Containerd easier.",
+                "homepage": "https://github.com/cdk-team/CDK/wiki",
                 "id": 310247011,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-01T08:14:30Z",
+                "open_issues": 15,
                 "owner": "cdk-team",
                 "repo": "CDK",
-                "stars": 4739
+                "stars": 4739,
+                "topics": [
+                  "blackhat",
+                  "cloud-native",
+                  "cloud-native-security",
+                  "container",
+                  "container-escape",
+                  "container-security",
+                  "docker",
+                  "exploits",
+                  "hacktools",
+                  "hitb",
+                  "k8s",
+                  "k8s-penetration-toolkit",
+                  "kernel-exploitation",
+                  "kubernetes",
+                  "kubernetes-security",
+                  "linux",
+                  "penetration",
+                  "penetration-testing-tools",
+                  "privilege-escalation",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -1114,12 +1792,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)",
+                "homepage": null,
                 "id": 260022777,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-21T11:52:01Z",
+                "open_issues": 9,
                 "owner": "stealthcopter",
                 "repo": "deepce",
-                "stars": 1566
+                "stars": 1566,
+                "topics": [
+                  "container-escape",
+                  "deepce",
+                  "docker-enumeration",
+                  "enumeration",
+                  "exploits",
+                  "privilege-escalation",
+                  "privilege-escalation-exploits"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -1130,12 +1821,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A container analysis and exploitation tool for pentesters and engineers.",
+                "homepage": null,
                 "id": 173116721,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-27T08:20:01Z",
+                "open_issues": 7,
                 "owner": "brompwnie",
                 "repo": "botb",
-                "stars": 685
+                "stars": 685,
+                "topics": [
+                  "container-analysis",
+                  "container-breakout",
+                  "docker-daemon",
+                  "exploitation",
+                  "metadata-endpoints",
+                  "pentesters",
+                  "procfs",
+                  "unix-domain-sockets"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -1146,12 +1851,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to test if you're in a Docker container and attempt simple breakouts",
+                "homepage": null,
                 "id": 179377265,
                 "language": "Crystal",
+                "license": "MIT",
                 "last_commit": "2022-12-21T21:59:28Z",
+                "open_issues": 8,
                 "owner": "PercussiveElbow",
                 "repo": "docker-escape-tool",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "docker",
+                  "escape",
+                  "pentest"
+                ]
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -1162,12 +1876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bash script to create an interactive shell to the container host",
+                "homepage": null,
                 "id": 314529918,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2020-11-20T11:14:53Z",
+                "open_issues": 0,
                 "owner": "0x03f3",
                 "repo": "PrivilegedDockerEscape",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             }
@@ -1191,12 +1910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs.",
+                "homepage": null,
                 "id": 198320410,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-07-25T18:56:36Z",
+                "open_issues": 1,
                 "owner": "RhinoSecurityLabs",
                 "repo": "AWS-IAM-Privilege-Escalation",
-                "stars": 932
+                "stars": 932,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -1209,12 +1933,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+                    "homepage": "https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/",
                     "id": 137276052,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-05-19T22:31:37Z",
+                    "open_issues": 37,
                     "owner": "RhinoSecurityLabs",
                     "repo": "pacu",
-                    "stars": 5313
+                    "stars": 5313,
+                    "topics": [
+                      "aws",
+                      "aws-security",
+                      "penetration-testing",
+                      "python",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:33:28.010Z"
                 }
@@ -1237,12 +1972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.",
+                "homepage": null,
                 "id": 259373760,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-10-06T23:48:11Z",
+                "open_issues": 9,
                 "owner": "RhinoSecurityLabs",
                 "repo": "GCP-IAM-Privilege-Escalation",
-                "stars": 427
+                "stars": 427,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
             },
@@ -1255,12 +1995,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.",
+                    "homepage": null,
                     "id": 172634627,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-05-26T19:11:42Z",
+                    "open_issues": 7,
                     "owner": "RhinoSecurityLabs",
                     "repo": "GCPBucketBrute",
-                    "stars": 573
+                    "stars": 573,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:33:28.010Z"
                 }
@@ -1279,15 +2024,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:33:28.010Z",
+    "last_updated": "2026-08-29T04:31:11.192Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome privilege escalation",
+      "homepage": null,
       "id": 225346478,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-23T18:55:02Z",
+      "open_issues": 1,
       "owner": "m0nad",
       "repo": "awesome-privilege-escalation",
-      "stars": 1595
+      "stars": 1596,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ctf",
+        "dll-hijacking",
+        "docker",
+        "hack-the-box",
+        "hacking",
+        "htb",
+        "linux-enumeration",
+        "nfs",
+        "oscp",
+        "pentest",
+        "pentesting",
+        "privilege-escalation"
+      ]
     },
     "original_repository_sha": "26c2658bfde971bc7c24f4a100a41faa19189d85",
     "enhanced_repository": "enhansome/enhansome-privilege-escalation",
