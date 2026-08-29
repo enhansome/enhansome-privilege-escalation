@@ -19,7 +19,7 @@
             "open_issues": 35,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80467,
+            "stars": 80469,
             "topics": [
               "bounty",
               "bugbounty",
@@ -175,7 +175,7 @@
                 "id": 165548191,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T11:24:17Z",
+                "last_commit": "2026-08-29T05:44:01Z",
                 "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
@@ -274,7 +274,7 @@
                 "open_issues": 24,
                 "owner": "The-Z-Labs",
                 "repo": "linux-exploit-suggester",
-                "stars": 6595,
+                "stars": 6594,
                 "topics": [
                   "applicable-exploits",
                   "exploits",
@@ -335,7 +335,7 @@
                 "open_issues": 4,
                 "owner": "SecWiki",
                 "repo": "linux-kernel-exploits",
-                "stars": 5650,
+                "stars": 5651,
                 "topics": [
                   "awesome",
                   "collection",
@@ -364,7 +364,7 @@
                 "open_issues": 3,
                 "owner": "diego-treitos",
                 "repo": "linux-smart-enumeration",
-                "stars": 3970,
+                "stars": 3971,
                 "topics": [
                   "ctfs",
                   "hacking",
@@ -900,7 +900,7 @@
             "open_issues": 35,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80467,
+            "stars": 80469,
             "topics": [
               "bounty",
               "bugbounty",
@@ -1082,7 +1082,7 @@
                 "open_issues": 1,
                 "owner": "Prepouce",
                 "repo": "CoercedPotato",
-                "stars": 399,
+                "stars": 400,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1106,7 +1106,7 @@
                 "id": 165548191,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T11:24:17Z",
+                "last_commit": "2026-08-29T05:44:01Z",
                 "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
@@ -1245,7 +1245,7 @@
                 "open_issues": 2,
                 "owner": "itm4n",
                 "repo": "PrivescCheck",
-                "stars": 3930,
+                "stars": 3932,
                 "topics": [
                   "pentest-tool",
                   "pentesting",
@@ -1272,7 +1272,7 @@
                 "open_issues": 13,
                 "owner": "ohpe",
                 "repo": "juicy-potato",
-                "stars": 2820,
+                "stars": 2821,
                 "topics": [
                   "clsid",
                   "dcom",
@@ -1709,7 +1709,7 @@
             "open_issues": 0,
             "owner": "sagishahar",
             "repo": "lpeworkshop",
-            "stars": 2125,
+            "stars": 2126,
             "topics": []
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1759,7 +1759,7 @@
                 "open_issues": 15,
                 "owner": "cdk-team",
                 "repo": "CDK",
-                "stars": 4739,
+                "stars": 4740,
                 "topics": [
                   "blackhat",
                   "cloud-native",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:11.192Z",
+    "last_updated": "2026-08-29T11:44:11.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome privilege escalation",
