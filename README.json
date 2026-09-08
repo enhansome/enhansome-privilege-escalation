@@ -19,7 +19,7 @@
             "open_issues": 35,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80691,
+            "stars": 80711,
             "topics": [
               "bounty",
               "bugbounty",
@@ -58,7 +58,7 @@
             "open_issues": 4,
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 5988,
+            "stars": 5989,
             "topics": [
               "blueteam",
               "forensics",
@@ -175,11 +175,11 @@
                 "id": 165548191,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T09:29:49Z",
+                "last_commit": "2026-09-07T19:07:40Z",
                 "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20474,
+                "stars": 20480,
                 "topics": [
                   "bash",
                   "batch",
@@ -220,7 +220,7 @@
                 "open_issues": 25,
                 "owner": "rebootuser",
                 "repo": "LinEnum",
-                "stars": 8030,
+                "stars": 8032,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -307,7 +307,7 @@
                 "open_issues": 3,
                 "owner": "DominicBreuker",
                 "repo": "pspy",
-                "stars": 6179,
+                "stars": 6177,
                 "topics": [
                   "ctf",
                   "enumeration",
@@ -335,7 +335,7 @@
                 "open_issues": 4,
                 "owner": "SecWiki",
                 "repo": "linux-kernel-exploits",
-                "stars": 5655,
+                "stars": 5653,
                 "topics": [
                   "awesome",
                   "collection",
@@ -364,7 +364,7 @@
                 "open_issues": 3,
                 "owner": "diego-treitos",
                 "repo": "linux-smart-enumeration",
-                "stars": 3983,
+                "stars": 3985,
                 "topics": [
                   "ctfs",
                   "hacking",
@@ -415,7 +415,7 @@
                 "open_issues": 1,
                 "owner": "TH3xACE",
                 "repo": "SUDO_KILLER",
-                "stars": 2483,
+                "stars": 2484,
                 "topics": [
                   "abuse-sudo",
                   "ctf",
@@ -473,7 +473,7 @@
                 "open_issues": 0,
                 "owner": "sleventyeleven",
                 "repo": "linuxprivchecker",
-                "stars": 1842,
+                "stars": 1844,
                 "topics": [
                   "ctf-tools",
                   "hackthebox",
@@ -526,7 +526,7 @@
                 "open_issues": 27,
                 "owner": "pentestmonkey",
                 "repo": "unix-privesc-check",
-                "stars": 1083,
+                "stars": 1084,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -815,7 +815,7 @@
                     "open_issues": 30,
                     "owner": "clearlinux",
                     "repo": "cve-check-tool",
-                    "stars": 211,
+                    "stars": 210,
                     "topics": [
                       "cve",
                       "database",
@@ -900,7 +900,7 @@
             "open_issues": 35,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80691,
+            "stars": 80711,
             "topics": [
               "bounty",
               "bugbounty",
@@ -1106,11 +1106,11 @@
                 "id": 165548191,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T09:29:49Z",
+                "last_commit": "2026-09-07T19:07:40Z",
                 "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20474,
+                "stars": 20480,
                 "topics": [
                   "bash",
                   "batch",
@@ -1172,7 +1172,7 @@
                 "open_issues": 9,
                 "owner": "bitsadmin",
                 "repo": "wesng",
-                "stars": 4927,
+                "stars": 4928,
                 "topics": [
                   "exploit",
                   "microsoft",
@@ -1363,7 +1363,7 @@
                 "open_issues": 5,
                 "owner": "411Hall",
                 "repo": "JAWS",
-                "stars": 1999,
+                "stars": 1998,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1496,7 +1496,7 @@
                 "open_issues": 1,
                 "owner": "antonioCoco",
                 "repo": "RoguePotato",
-                "stars": 1181,
+                "stars": 1182,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1675,7 +1675,7 @@
             "open_issues": 28,
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17378,
+            "stars": 17382,
             "topics": [
               "buffer-overflow",
               "ctf",
@@ -1709,7 +1709,7 @@
             "open_issues": 0,
             "owner": "sagishahar",
             "repo": "lpeworkshop",
-            "stars": 2128,
+            "stars": 2129,
             "topics": []
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1759,7 +1759,7 @@
                 "open_issues": 15,
                 "owner": "cdk-team",
                 "repo": "CDK",
-                "stars": 4744,
+                "stars": 4745,
                 "topics": [
                   "blackhat",
                   "cloud-native",
@@ -1830,7 +1830,7 @@
                 "open_issues": 7,
                 "owner": "brompwnie",
                 "repo": "botb",
-                "stars": 685,
+                "stars": 686,
                 "topics": [
                   "container-analysis",
                   "container-breakout",
@@ -1942,7 +1942,7 @@
                     "open_issues": 37,
                     "owner": "RhinoSecurityLabs",
                     "repo": "pacu",
-                    "stars": 5320,
+                    "stars": 5322,
                     "topics": [
                       "aws",
                       "aws-security",
@@ -2004,7 +2004,7 @@
                     "open_issues": 7,
                     "owner": "RhinoSecurityLabs",
                     "repo": "GCPBucketBrute",
-                    "stars": 573,
+                    "stars": 574,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:33:28.010Z"
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:34:54.828Z",
+    "last_updated": "2026-09-08T09:55:16.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome privilege escalation",
@@ -2036,7 +2036,7 @@
       "open_issues": 1,
       "owner": "m0nad",
       "repo": "awesome-privilege-escalation",
-      "stars": 1604,
+      "stars": 1605,
       "topics": [
         "awesome",
         "awesome-list",
