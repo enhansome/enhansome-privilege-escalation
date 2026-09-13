@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80819,
+            "stars": 80832,
             "topics": [
               "bounty",
               "bugbounty",
@@ -99,7 +99,7 @@
             "open_issues": 2,
             "owner": "Ignitetechnologies",
             "repo": "Privilege-Escalation",
-            "stars": 3637,
+            "stars": 3638,
             "topics": [
               "cheatsheet",
               "ctf",
@@ -179,7 +179,7 @@
                 "open_issues": 1,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20509,
+                "stars": 20512,
                 "topics": [
                   "bash",
                   "batch",
@@ -220,7 +220,7 @@
                 "open_issues": 25,
                 "owner": "rebootuser",
                 "repo": "LinEnum",
-                "stars": 8033,
+                "stars": 8032,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -505,7 +505,7 @@
                 "open_issues": 4,
                 "owner": "InteliSecureLabs",
                 "repo": "Linux_Exploit_Suggester",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -900,7 +900,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80819,
+            "stars": 80832,
             "topics": [
               "bounty",
               "bugbounty",
@@ -939,7 +939,7 @@
             "open_issues": 3,
             "owner": "nickvourd",
             "repo": "Windows-Local-Privilege-Escalation-Cookbook",
-            "stars": 1379,
+            "stars": 1380,
             "topics": [
               "administrator",
               "administrator-privileges",
@@ -1110,7 +1110,7 @@
                 "open_issues": 1,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20509,
+                "stars": 20512,
                 "topics": [
                   "bash",
                   "batch",
@@ -1200,7 +1200,7 @@
                 "open_issues": 11,
                 "owner": "GhostPack",
                 "repo": "Seatbelt",
-                "stars": 4697,
+                "stars": 4695,
                 "topics": [
                   "csharp",
                   "situational-awareness"
@@ -1321,7 +1321,7 @@
                 "open_issues": 7,
                 "owner": "BeichenDream",
                 "repo": "GodPotato",
-                "stars": 2343,
+                "stars": 2344,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1675,7 +1675,7 @@
             "open_issues": 29,
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17398,
+            "stars": 17401,
             "topics": [
               "buffer-overflow",
               "ctf",
@@ -1709,7 +1709,7 @@
             "open_issues": 0,
             "owner": "sagishahar",
             "repo": "lpeworkshop",
-            "stars": 2130,
+            "stars": 2131,
             "topics": []
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1801,7 +1801,7 @@
                 "open_issues": 9,
                 "owner": "stealthcopter",
                 "repo": "deepce",
-                "stars": 1567,
+                "stars": 1568,
                 "topics": [
                   "container-escape",
                   "deepce",
@@ -1939,10 +1939,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-05-19T22:31:37Z",
-                    "open_issues": 37,
+                    "open_issues": 38,
                     "owner": "RhinoSecurityLabs",
                     "repo": "pacu",
-                    "stars": 5327,
+                    "stars": 5329,
                     "topics": [
                       "aws",
                       "aws-security",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:29:25.744Z",
+    "last_updated": "2026-09-13T10:26:29.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome privilege escalation",
