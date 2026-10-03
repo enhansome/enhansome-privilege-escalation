@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81406,
+            "stars": 81426,
             "topics": [
               "bounty",
               "bugbounty",
@@ -45,7 +45,7 @@
         {
           "node_type": "item",
           "title": "Privilege Escalation & Post-Exploitation",
-          "description": null,
+          "description": "rmusser01/Infosec_Reference",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -99,7 +99,7 @@
             "open_issues": 2,
             "owner": "Ignitetechnologies",
             "repo": "Privilege-Escalation",
-            "stars": 3640,
+            "stars": 3641,
             "topics": [
               "cheatsheet",
               "ctf",
@@ -119,7 +119,7 @@
         {
           "node_type": "item",
           "title": "Penetration-Testing-Grimoire/Privilege Escalation/linux.md",
-          "description": null,
+          "description": "RackunSec/Penetration-Testing-Grimoire",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -175,11 +175,11 @@
                 "id": 165548191,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T00:32:54Z",
+                "last_commit": "2026-10-02T17:28:00Z",
                 "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20598,
+                "stars": 20600,
                 "topics": [
                   "bash",
                   "batch",
@@ -241,7 +241,7 @@
                 "open_issues": 22,
                 "owner": "liamg",
                 "repo": "traitor",
-                "stars": 7161,
+                "stars": 7162,
                 "topics": [
                   "cve-2021-3560",
                   "cve-2022-0847",
@@ -274,7 +274,7 @@
                 "open_issues": 24,
                 "owner": "The-Z-Labs",
                 "repo": "linux-exploit-suggester",
-                "stars": 6629,
+                "stars": 6627,
                 "topics": [
                   "applicable-exploits",
                   "exploits",
@@ -307,7 +307,7 @@
                 "open_issues": 3,
                 "owner": "DominicBreuker",
                 "repo": "pspy",
-                "stars": 6210,
+                "stars": 6212,
                 "topics": [
                   "ctf",
                   "enumeration",
@@ -322,7 +322,7 @@
             {
               "node_type": "item",
               "title": "linux-kernel-exploits",
-              "description": null,
+              "description": "SecWiki/linux-kernel-exploits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -335,7 +335,7 @@
                 "open_issues": 4,
                 "owner": "SecWiki",
                 "repo": "linux-kernel-exploits",
-                "stars": 5651,
+                "stars": 5649,
                 "topics": [
                   "awesome",
                   "collection",
@@ -364,7 +364,7 @@
                 "open_issues": 3,
                 "owner": "diego-treitos",
                 "repo": "linux-smart-enumeration",
-                "stars": 3989,
+                "stars": 3988,
                 "topics": [
                   "ctfs",
                   "hacking",
@@ -415,7 +415,7 @@
                 "open_issues": 1,
                 "owner": "TH3xACE",
                 "repo": "SUDO_KILLER",
-                "stars": 2485,
+                "stars": 2486,
                 "topics": [
                   "abuse-sudo",
                   "ctf",
@@ -658,7 +658,7 @@
                 "open_issues": 58,
                 "owner": "Frissi0n",
                 "repo": "GTFONow",
-                "stars": 638,
+                "stars": 639,
                 "topics": [
                   "ctf",
                   "ctf-tools",
@@ -887,7 +887,7 @@
         {
           "node_type": "item",
           "title": "Windows - Privilege Escalation",
-          "description": null,
+          "description": "swisskyrepo/PayloadsAllTheThings",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -900,7 +900,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81406,
+            "stars": 81426,
             "topics": [
               "bounty",
               "bugbounty",
@@ -1017,7 +1017,7 @@
         {
           "node_type": "item",
           "title": "awesome-windows-security",
-          "description": null,
+          "description": "chryzsh/awesome-windows-security",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1106,11 +1106,11 @@
                 "id": 165548191,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T00:32:54Z",
+                "last_commit": "2026-10-02T17:28:00Z",
                 "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20598,
+                "stars": 20600,
                 "topics": [
                   "bash",
                   "batch",
@@ -1151,7 +1151,7 @@
                 "open_issues": 102,
                 "owner": "PowerShellMafia",
                 "repo": "PowerSploit",
-                "stars": 13078,
+                "stars": 13076,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1224,7 +1224,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4228,
+                "stars": 4227,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1272,7 +1272,7 @@
                 "open_issues": 14,
                 "owner": "ohpe",
                 "repo": "juicy-potato",
-                "stars": 2831,
+                "stars": 2832,
                 "topics": [
                   "clsid",
                   "dcom",
@@ -1321,7 +1321,7 @@
                 "open_issues": 7,
                 "owner": "BeichenDream",
                 "repo": "GodPotato",
-                "stars": 2350,
+                "stars": 2349,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1363,7 +1363,7 @@
                 "open_issues": 6,
                 "owner": "411Hall",
                 "repo": "JAWS",
-                "stars": 1998,
+                "stars": 1997,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 8,
                 "owner": "CCob",
                 "repo": "SweetPotato",
-                "stars": 1845,
+                "stars": 1844,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1675,7 +1675,7 @@
             "open_issues": 31,
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17467,
+            "stars": 17465,
             "topics": [
               "buffer-overflow",
               "ctf",
@@ -1696,7 +1696,7 @@
         {
           "node_type": "item",
           "title": "Windows / Linux Local Privilege Escalation Workshop",
-          "description": null,
+          "description": "sagishahar/lpeworkshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1723,7 +1723,7 @@
         {
           "node_type": "item",
           "title": "Docker security checklist",
-          "description": null,
+          "description": "PercussiveElbow/docker-security-checklist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1759,7 +1759,7 @@
                 "open_issues": 15,
                 "owner": "cdk-team",
                 "repo": "CDK",
-                "stars": 4764,
+                "stars": 4763,
                 "topics": [
                   "blackhat",
                   "cloud-native",
@@ -1830,7 +1830,7 @@
                 "open_issues": 7,
                 "owner": "brompwnie",
                 "repo": "botb",
-                "stars": 687,
+                "stars": 688,
                 "topics": [
                   "container-analysis",
                   "container-breakout",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:13:34.145Z",
+    "last_updated": "2026-10-03T05:05:20.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome privilege escalation",
