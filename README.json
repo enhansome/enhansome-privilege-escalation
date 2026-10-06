@@ -307,7 +307,7 @@
                 "open_issues": 3,
                 "owner": "DominicBreuker",
                 "repo": "pspy",
-                "stars": 6212,
+                "stars": 6213,
                 "topics": [
                   "ctf",
                   "enumeration",
@@ -364,7 +364,7 @@
                 "open_issues": 3,
                 "owner": "diego-treitos",
                 "repo": "linux-smart-enumeration",
-                "stars": 3990,
+                "stars": 3991,
                 "topics": [
                   "ctfs",
                   "hacking",
@@ -981,7 +981,7 @@
             "open_issues": 3,
             "owner": "frizb",
             "repo": "Windows-Privilege-Escalation",
-            "stars": 998,
+            "stars": 999,
             "topics": [
               "kali-linux",
               "oscp",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:20:23.352Z",
+    "last_updated": "2026-10-06T12:08:36.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome privilege escalation",
