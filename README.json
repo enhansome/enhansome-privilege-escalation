@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81506,
+            "stars": 81522,
             "topics": [
               "bounty",
               "bugbounty",
@@ -179,7 +179,7 @@
                 "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20621,
+                "stars": 20631,
                 "topics": [
                   "bash",
                   "batch",
@@ -220,7 +220,7 @@
                 "open_issues": 25,
                 "owner": "rebootuser",
                 "repo": "LinEnum",
-                "stars": 8045,
+                "stars": 8048,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -241,7 +241,7 @@
                 "open_issues": 22,
                 "owner": "liamg",
                 "repo": "traitor",
-                "stars": 7162,
+                "stars": 7160,
                 "topics": [
                   "cve-2021-3560",
                   "cve-2022-0847",
@@ -274,7 +274,7 @@
                 "open_issues": 24,
                 "owner": "The-Z-Labs",
                 "repo": "linux-exploit-suggester",
-                "stars": 6634,
+                "stars": 6633,
                 "topics": [
                   "applicable-exploits",
                   "exploits",
@@ -307,7 +307,7 @@
                 "open_issues": 3,
                 "owner": "DominicBreuker",
                 "repo": "pspy",
-                "stars": 6213,
+                "stars": 6211,
                 "topics": [
                   "ctf",
                   "enumeration",
@@ -364,7 +364,7 @@
                 "open_issues": 3,
                 "owner": "diego-treitos",
                 "repo": "linux-smart-enumeration",
-                "stars": 3991,
+                "stars": 3990,
                 "topics": [
                   "ctfs",
                   "hacking",
@@ -394,7 +394,7 @@
                 "open_issues": 6,
                 "owner": "AlessandroZ",
                 "repo": "BeRoot",
-                "stars": 2625,
+                "stars": 2624,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -473,7 +473,7 @@
                 "open_issues": 0,
                 "owner": "sleventyeleven",
                 "repo": "linuxprivchecker",
-                "stars": 1848,
+                "stars": 1850,
                 "topics": [
                   "ctf-tools",
                   "hackthebox",
@@ -505,7 +505,7 @@
                 "open_issues": 4,
                 "owner": "InteliSecureLabs",
                 "repo": "Linux_Exploit_Suggester",
-                "stars": 1813,
+                "stars": 1812,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -900,7 +900,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81506,
+            "stars": 81522,
             "topics": [
               "bounty",
               "bugbounty",
@@ -1110,7 +1110,7 @@
                 "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20621,
+                "stars": 20631,
                 "topics": [
                   "bash",
                   "batch",
@@ -1172,7 +1172,7 @@
                 "open_issues": 9,
                 "owner": "bitsadmin",
                 "repo": "wesng",
-                "stars": 4947,
+                "stars": 4951,
                 "topics": [
                   "exploit",
                   "microsoft",
@@ -1200,7 +1200,7 @@
                 "open_issues": 11,
                 "owner": "GhostPack",
                 "repo": "Seatbelt",
-                "stars": 4715,
+                "stars": 4722,
                 "topics": [
                   "csharp",
                   "situational-awareness"
@@ -1272,7 +1272,7 @@
                 "open_issues": 14,
                 "owner": "ohpe",
                 "repo": "juicy-potato",
-                "stars": 2834,
+                "stars": 2837,
                 "topics": [
                   "clsid",
                   "dcom",
@@ -1300,7 +1300,7 @@
                 "open_issues": 5,
                 "owner": "rootm0s",
                 "repo": "WinPwnage",
-                "stars": 2750,
+                "stars": 2749,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1363,7 +1363,7 @@
                 "open_issues": 6,
                 "owner": "411Hall",
                 "repo": "JAWS",
-                "stars": 2001,
+                "stars": 2004,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1405,7 +1405,7 @@
                 "open_issues": 4,
                 "owner": "rasta-mouse",
                 "repo": "Watson",
-                "stars": 1679,
+                "stars": 1680,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1468,7 +1468,7 @@
                 "open_issues": 5,
                 "owner": "Arvanaghi",
                 "repo": "SessionGopher",
-                "stars": 1333,
+                "stars": 1334,
                 "topics": [
                   "artifacts",
                   "pentesting",
@@ -1675,7 +1675,7 @@
             "open_issues": 32,
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17473,
+            "stars": 17476,
             "topics": [
               "buffer-overflow",
               "ctf",
@@ -1709,7 +1709,7 @@
             "open_issues": 0,
             "owner": "sagishahar",
             "repo": "lpeworkshop",
-            "stars": 2134,
+            "stars": 2135,
             "topics": []
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1759,7 +1759,7 @@
                 "open_issues": 15,
                 "owner": "cdk-team",
                 "repo": "CDK",
-                "stars": 4766,
+                "stars": 4765,
                 "topics": [
                   "blackhat",
                   "cloud-native",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:08:36.755Z",
+    "last_updated": "2026-10-07T11:54:37.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome privilege escalation",
