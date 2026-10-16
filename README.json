@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81752,
+            "stars": 81774,
             "topics": [
               "bounty",
               "bugbounty",
@@ -58,7 +58,7 @@
             "open_issues": 4,
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 6006,
+            "stars": 6008,
             "topics": [
               "blueteam",
               "forensics",
@@ -99,7 +99,7 @@
             "open_issues": 2,
             "owner": "Ignitetechnologies",
             "repo": "Privilege-Escalation",
-            "stars": 3645,
+            "stars": 3644,
             "topics": [
               "cheatsheet",
               "ctf",
@@ -175,11 +175,11 @@
                 "id": 165548191,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T07:06:31Z",
+                "last_commit": "2026-10-15T21:24:36Z",
                 "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20671,
+                "stars": 20678,
                 "topics": [
                   "bash",
                   "batch",
@@ -220,7 +220,7 @@
                 "open_issues": 25,
                 "owner": "rebootuser",
                 "repo": "LinEnum",
-                "stars": 8061,
+                "stars": 8064,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -274,7 +274,7 @@
                 "open_issues": 24,
                 "owner": "The-Z-Labs",
                 "repo": "linux-exploit-suggester",
-                "stars": 6634,
+                "stars": 6636,
                 "topics": [
                   "applicable-exploits",
                   "exploits",
@@ -307,7 +307,7 @@
                 "open_issues": 3,
                 "owner": "DominicBreuker",
                 "repo": "pspy",
-                "stars": 6217,
+                "stars": 6218,
                 "topics": [
                   "ctf",
                   "enumeration",
@@ -394,7 +394,7 @@
                 "open_issues": 6,
                 "owner": "AlessandroZ",
                 "repo": "BeRoot",
-                "stars": 2627,
+                "stars": 2628,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -473,7 +473,7 @@
                 "open_issues": 0,
                 "owner": "sleventyeleven",
                 "repo": "linuxprivchecker",
-                "stars": 1855,
+                "stars": 1856,
                 "topics": [
                   "ctf-tools",
                   "hackthebox",
@@ -547,7 +547,7 @@
                 "open_issues": 1,
                 "owner": "1N3",
                 "repo": "PrivEsc",
-                "stars": 991,
+                "stars": 992,
                 "topics": [
                   "bugbounty",
                   "exploits",
@@ -654,8 +654,8 @@
                 "id": 330788903,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T05:59:48Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-16T04:22:33Z",
+                "open_issues": 60,
                 "owner": "Frissi0n",
                 "repo": "GTFONow",
                 "stars": 641,
@@ -740,7 +740,7 @@
                 "open_issues": 0,
                 "owner": "belane",
                 "repo": "linux-soft-exploit-suggester",
-                "stars": 237,
+                "stars": 236,
                 "topics": [
                   "ctf",
                   "elevate",
@@ -900,7 +900,7 @@
             "open_issues": 38,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81752,
+            "stars": 81774,
             "topics": [
               "bounty",
               "bugbounty",
@@ -981,7 +981,7 @@
             "open_issues": 3,
             "owner": "frizb",
             "repo": "Windows-Privilege-Escalation",
-            "stars": 1004,
+            "stars": 1005,
             "topics": [
               "kali-linux",
               "oscp",
@@ -1106,11 +1106,11 @@
                 "id": 165548191,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T07:06:31Z",
+                "last_commit": "2026-10-15T21:24:36Z",
                 "open_issues": 0,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20671,
+                "stars": 20678,
                 "topics": [
                   "bash",
                   "batch",
@@ -1151,7 +1151,7 @@
                 "open_issues": 102,
                 "owner": "PowerShellMafia",
                 "repo": "PowerSploit",
-                "stars": 13072,
+                "stars": 13073,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1200,7 +1200,7 @@
                 "open_issues": 11,
                 "owner": "GhostPack",
                 "repo": "Seatbelt",
-                "stars": 4739,
+                "stars": 4740,
                 "topics": [
                   "csharp",
                   "situational-awareness"
@@ -1224,7 +1224,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4226,
+                "stars": 4227,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1245,7 +1245,7 @@
                 "open_issues": 1,
                 "owner": "itm4n",
                 "repo": "PrivescCheck",
-                "stars": 3989,
+                "stars": 3990,
                 "topics": [
                   "pentest-tool",
                   "pentesting",
@@ -1272,7 +1272,7 @@
                 "open_issues": 14,
                 "owner": "ohpe",
                 "repo": "juicy-potato",
-                "stars": 2842,
+                "stars": 2843,
                 "topics": [
                   "clsid",
                   "dcom",
@@ -1300,7 +1300,7 @@
                 "open_issues": 5,
                 "owner": "rootm0s",
                 "repo": "WinPwnage",
-                "stars": 2751,
+                "stars": 2752,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1496,7 +1496,7 @@
                 "open_issues": 1,
                 "owner": "antonioCoco",
                 "repo": "RoguePotato",
-                "stars": 1185,
+                "stars": 1186,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1672,10 +1672,10 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-05-21T07:37:46Z",
-            "open_issues": 33,
+            "open_issues": 35,
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17520,
+            "stars": 17526,
             "topics": [
               "buffer-overflow",
               "ctf",
@@ -1801,7 +1801,7 @@
                 "open_issues": 9,
                 "owner": "stealthcopter",
                 "repo": "deepce",
-                "stars": 1581,
+                "stars": 1583,
                 "topics": [
                   "container-escape",
                   "deepce",
@@ -1942,7 +1942,7 @@
                     "open_issues": 38,
                     "owner": "RhinoSecurityLabs",
                     "repo": "pacu",
-                    "stars": 5361,
+                    "stars": 5363,
                     "topics": [
                       "aws",
                       "aws-security",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:09:31.157Z",
+    "last_updated": "2026-10-16T10:01:16.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome privilege escalation",
