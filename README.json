@@ -15,11 +15,11 @@
             "id": 71220757,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T07:52:21Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-30T15:58:03Z",
+            "open_issues": 38,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 82228,
+            "stars": 82259,
             "topics": [
               "bounty",
               "bugbounty",
@@ -58,7 +58,7 @@
             "open_issues": 5,
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 6024,
+            "stars": 6028,
             "topics": [
               "blueteam",
               "forensics",
@@ -99,7 +99,7 @@
             "open_issues": 2,
             "owner": "Ignitetechnologies",
             "repo": "Privilege-Escalation",
-            "stars": 3645,
+            "stars": 3644,
             "topics": [
               "cheatsheet",
               "ctf",
@@ -179,7 +179,7 @@
                 "open_issues": 1,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20742,
+                "stars": 20745,
                 "topics": [
                   "bash",
                   "batch",
@@ -220,7 +220,7 @@
                 "open_issues": 25,
                 "owner": "rebootuser",
                 "repo": "LinEnum",
-                "stars": 8070,
+                "stars": 8074,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -241,7 +241,7 @@
                 "open_issues": 22,
                 "owner": "liamg",
                 "repo": "traitor",
-                "stars": 7156,
+                "stars": 7157,
                 "topics": [
                   "cve-2021-3560",
                   "cve-2022-0847",
@@ -364,7 +364,7 @@
                 "open_issues": 3,
                 "owner": "diego-treitos",
                 "repo": "linux-smart-enumeration",
-                "stars": 4005,
+                "stars": 4006,
                 "topics": [
                   "ctfs",
                   "hacking",
@@ -505,7 +505,7 @@
                 "open_issues": 4,
                 "owner": "InteliSecureLabs",
                 "repo": "Linux_Exploit_Suggester",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -896,11 +896,11 @@
             "id": 71220757,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T07:52:21Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-30T15:58:03Z",
+            "open_issues": 38,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 82228,
+            "stars": 82259,
             "topics": [
               "bounty",
               "bugbounty",
@@ -1110,7 +1110,7 @@
                 "open_issues": 1,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20742,
+                "stars": 20745,
                 "topics": [
                   "bash",
                   "batch",
@@ -1151,7 +1151,7 @@
                 "open_issues": 102,
                 "owner": "PowerShellMafia",
                 "repo": "PowerSploit",
-                "stars": 13071,
+                "stars": 13069,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1172,7 +1172,7 @@
                 "open_issues": 9,
                 "owner": "bitsadmin",
                 "repo": "wesng",
-                "stars": 4969,
+                "stars": 4970,
                 "topics": [
                   "exploit",
                   "microsoft",
@@ -1224,7 +1224,7 @@
                 "open_issues": 33,
                 "owner": "strozfriedberg",
                 "repo": "Windows-Exploit-Suggester",
-                "stars": 4226,
+                "stars": 4225,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1245,7 +1245,7 @@
                 "open_issues": 1,
                 "owner": "itm4n",
                 "repo": "PrivescCheck",
-                "stars": 3994,
+                "stars": 3997,
                 "topics": [
                   "pentest-tool",
                   "pentesting",
@@ -1321,7 +1321,7 @@
                 "open_issues": 7,
                 "owner": "BeichenDream",
                 "repo": "GodPotato",
-                "stars": 2370,
+                "stars": 2373,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1426,7 +1426,7 @@
                 "open_issues": 16,
                 "owner": "pentestmonkey",
                 "repo": "windows-privesc-check",
-                "stars": 1503,
+                "stars": 1504,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1447,7 +1447,7 @@
                 "open_issues": 2,
                 "owner": "antonioCoco",
                 "repo": "RemotePotato0",
-                "stars": 1475,
+                "stars": 1476,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1675,7 +1675,7 @@
             "open_issues": 36,
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17577,
+            "stars": 17581,
             "topics": [
               "buffer-overflow",
               "ctf",
@@ -1942,7 +1942,7 @@
                     "open_issues": 38,
                     "owner": "RhinoSecurityLabs",
                     "repo": "pacu",
-                    "stars": 5379,
+                    "stars": 5381,
                     "topics": [
                       "aws",
                       "aws-security",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:29:58.310Z",
+    "last_updated": "2026-10-31T11:01:39.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome privilege escalation",
