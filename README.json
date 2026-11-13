@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 82623,
+            "stars": 82648,
             "topics": [
               "bounty",
               "bugbounty",
@@ -58,7 +58,7 @@
             "open_issues": 6,
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 6040,
+            "stars": 6041,
             "topics": [
               "blueteam",
               "forensics",
@@ -99,7 +99,7 @@
             "open_issues": 2,
             "owner": "Ignitetechnologies",
             "repo": "Privilege-Escalation",
-            "stars": 3649,
+            "stars": 3650,
             "topics": [
               "cheatsheet",
               "ctf",
@@ -179,7 +179,7 @@
                 "open_issues": 2,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20813,
+                "stars": 20817,
                 "topics": [
                   "bash",
                   "batch",
@@ -220,7 +220,7 @@
                 "open_issues": 27,
                 "owner": "rebootuser",
                 "repo": "LinEnum",
-                "stars": 8090,
+                "stars": 8091,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -307,7 +307,7 @@
                 "open_issues": 3,
                 "owner": "DominicBreuker",
                 "repo": "pspy",
-                "stars": 6242,
+                "stars": 6243,
                 "topics": [
                   "ctf",
                   "enumeration",
@@ -364,7 +364,7 @@
                 "open_issues": 3,
                 "owner": "diego-treitos",
                 "repo": "linux-smart-enumeration",
-                "stars": 4009,
+                "stars": 4011,
                 "topics": [
                   "ctfs",
                   "hacking",
@@ -654,8 +654,8 @@
                 "id": 330788903,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T06:29:11Z",
-                "open_issues": 63,
+                "last_commit": "2026-11-13T06:29:31Z",
+                "open_issues": 64,
                 "owner": "Frissi0n",
                 "repo": "GTFONow",
                 "stars": 641,
@@ -900,7 +900,7 @@
             "open_issues": 41,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 82623,
+            "stars": 82648,
             "topics": [
               "bounty",
               "bugbounty",
@@ -1110,7 +1110,7 @@
                 "open_issues": 2,
                 "owner": "peass-ng",
                 "repo": "PEASS-ng",
-                "stars": 20813,
+                "stars": 20817,
                 "topics": [
                   "bash",
                   "batch",
@@ -1151,7 +1151,7 @@
                 "open_issues": 102,
                 "owner": "PowerShellMafia",
                 "repo": "PowerSploit",
-                "stars": 13064,
+                "stars": 13065,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1168,7 +1168,7 @@
                 "id": 173464070,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-06T13:52:51Z",
+                "last_commit": "2026-11-13T00:21:35Z",
                 "open_issues": 9,
                 "owner": "bitsadmin",
                 "repo": "wesng",
@@ -1321,7 +1321,7 @@
                 "open_issues": 7,
                 "owner": "BeichenDream",
                 "repo": "GodPotato",
-                "stars": 2384,
+                "stars": 2386,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1496,7 +1496,7 @@
                 "open_issues": 1,
                 "owner": "antonioCoco",
                 "repo": "RoguePotato",
-                "stars": 1188,
+                "stars": 1189,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1675,7 +1675,7 @@
             "open_issues": 40,
             "owner": "vitalysim",
             "repo": "Awesome-Hacking-Resources",
-            "stars": 17634,
+            "stars": 17633,
             "topics": [
               "buffer-overflow",
               "ctf",
@@ -1709,7 +1709,7 @@
             "open_issues": 0,
             "owner": "sagishahar",
             "repo": "lpeworkshop",
-            "stars": 2146,
+            "stars": 2144,
             "topics": []
           },
           "first_seen": "2026-08-28T17:33:28.010Z"
@@ -1759,7 +1759,7 @@
                 "open_issues": 15,
                 "owner": "cdk-team",
                 "repo": "CDK",
-                "stars": 4789,
+                "stars": 4791,
                 "topics": [
                   "blackhat",
                   "cloud-native",
@@ -1942,7 +1942,7 @@
                     "open_issues": 39,
                     "owner": "RhinoSecurityLabs",
                     "repo": "pacu",
-                    "stars": 5393,
+                    "stars": 5395,
                     "topics": [
                       "aws",
                       "aws-security",
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:54:43.567Z",
+    "last_updated": "2026-11-13T13:18:35.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome privilege escalation",
